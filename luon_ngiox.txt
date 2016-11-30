@@ -1,9 +1,10 @@
-﻿#論語中古漢語拼音（切韻音系）標音
+#論語中古漢語拼音（切韻音系）標音
 #Lun Yu labeled with Middle Chinese transliteration in Qie Yun phonology
 #encoding: utf-8
 #version: 20161130
 #author: polyhedron （biopolyhedron@gmail.com 或新浪微博 @polyhedron ）
-#版權歸作者所有
+#licence: cc by-nc-sa 3.0
+#版權歸作者所有，盈利性使用請與作者聯繫
 #修改意見請向作者發郵件
 
 論語
