@@ -1,7 +1,7 @@
-#《唐詩三百首》中古漢語拼音（切韻音系）標音
+﻿#《唐詩三百首》中古漢語拼音（切韻音系）標音
 #«300 Dang poems» labeled with Middle Chinese transliteration in Qie Yun phonology
 #encoding: utf-8
-#version: 20161130
+#version: 20161130, corrected 20180130
 #author: polyhedron （biopolyhedron@gmail.com 或新浪微博 @polyhedron ）
 #licence: cc by-nc-sa 3.0
 #版權歸作者所有，盈利性使用請與作者聯繫
@@ -1076,4 +1076,2913 @@ Ngio-jang be kox dungx diih lai, kieng phuah «Nge-zjang Yox-qioi Khyuk».
 Kiux dryung zjeng khyat qen drin srieng, chen zsjingh myanh gieh se nom ghrang.
 Chyih ghrua jeu-jeu ghrang biuh cjix, se chjyt to muon prak jo lix.
 Liuk kyon pyot pyat myo nad gha, qyanx-tryenx nga mii mrax zen siix.
-Hrua den
+Hrua denh qyex diih myo njin sju, chyih gjeu kim ciak ngyuk sau du.
+Kyon yang qiemx mjenh kiuh pyot tok, ghuai khan huet lyih siang ghuah liu.
+Ghuang qai sanh muanh piung seu sak, yon zranh qjyeng ??? tong Kiamh-kak.
+Nga-mii sren ghrax sjeux njin ghrang, cieng gi myo kuang njit srik bak.
+Zjyuk krung sjyix piek Zjyuk sren cheng, sjengh cjyox trieu trieu moh moh zieng.
+Ghrang kiung kenh ngyat sjang sim srik, jah yox myon leng driang duanx sjeng.
+Then zsyen diih tryenh ghuai lyung ngioh (大寫?), tauh chiex driu-drio pyot nong khioh.
+Mrax-nguai Phua ghrax ne thox triung, pyot kenh ngyuk ngran khung siix chjoh.
+Kyon zjin siang koh zinx triem qioi, tung myangh to muon sinh mrax kyoi.
+Kyoi lai drie qyanx krai qioi giuh, Thad-jek byo-jyung Myoih-qiang liux.
+Byo-jyung njo mjenh liux njo mii, tuaih chiex njo gha pyot lyih zjye.
+Chjyn piung dau lix hrua khai njit, chiu yox ngo dung jep lak zji.
+Se kiung nom nuaih ta chiu chaux, lak jep muanx krai ghung pyot saux.
+Lii Yan dex cix brak pyat sin, Cieu Byang qa kramh cheng nga laux.
+Ziek denh ghueng pyoi si chieux njen, ko tong theu zinx myoih zjeng men.
+Drii-drii cjyung kox chrio driang jah, krengx-krengx seng gha jyuk zjoh then.
+Qyan-qiang ngruax lrangx sriang ghrua dryungx, byoih cjyih khim ghan zjyi jox gyungh.
+Ju-ju srieng siix biet keng nen, ghuon phrak pyot zong lai njip miungh.
+Lim-gyung daux zrix Ghung-to khrak, nong jix cieng zjeng triih ghuon phrak.
+Yenh komx kyon yang trienx-tryenx si, zsyih krauh pyang zrix qion-gion mek.
+Brai khung ngioh khioih puon njo denh, sjing then njip diih giu cji penh.
+Zjangx giung piek lak ghrah ghuang zyen, liangx chjoh mang-mang krai pyot kenh.
+Huot myon haix zjangh iux sien sren, sren zaix hio myo phjeux-mjeux kren.
+Lu kak leng-lung ngox yon khix, gi triung chjak-qiak ta sien cix.
+Triung iux qjit njin zih Thad-cjin, syet pyo hrua mrauh chrim-chrie zjex.
+Kim khyat se siang khux ngyuk kueng, tryenx krauh sieux ngyuk pauh srung zjeng.
+Myon daux Hanh kra then cix srih, kiux ghrua triangh lix miung ghuon kieng.
+Lamx qioi thuai cjimx khix buai-ghuai, cjyo bak ngin beng jex-liex khai.
+Yon keh puanh phjen sin zjyeh kruk, hrua kuan pyot cjengx ghrah dang lai.
+Piung chjye sien mjed phjeu-phjeu kiox, ju zsix Nge-zjang Yox-qioi myox.
+Ngyuk jyung zek-mak lyih lan-kan, lii hrua qjit cje chjyn tad yox.
+Ghom zieng nging deh zsiah kyon yang, qjit biet qim jyung liangx mjeux mang.
+Cjeu-jang Denh lix qon qaih zyet, Bung-lai Kiung triung njit ngyat driang.
+Ghuai du ghrax myangh njin ghruan chjoh, pyot kenh Driang-qan kenh drin myoh.
+Jyi ciang giuh myot pieux sjim zieng, denh gop kim chre kieh ciang khioh.
+Chre liu qjit kox ghop qjit sjenh, chre prek ghuang kim ghop pyon denh.
+Danx krauh sim zsix kim denh ken, then zjangh njin kren ghuad siang kenh.
+Lim biet qion-gion dryung kieh zsi, zsi triung iux zjed liangx sim trie.
+Chit ngyat chit njit driang srieng denh, jah puanh myo njin sii ngiox zji.
+Zaix then ngyanh cak pjiix (??) jek teux, zaix diih ngyanh ye lien lix cje.
+Then driang diih kiux iux zji zinx, chiex ghonh mjen-mjen myo zyet gi.
+
+
+66. 
+
+Bjii-bra ghrang
+
+Brak Kio-Jeh
+
+Zsim-jang krung du jah sungh khrak, piung jep dek hrua chiu srit-srit.
+Cjyox njin ghrah mrax khrak zaix zsjyen, kiox ciux jyuk qimx myo kuanx ghen.
+Cyih pyot zjeng huan chomx ciang biet, biet zji mang-mang krung cimh ngyat.
+Huot myon sjyix zjangh bjii-bra sjeng, cjyox njin myangh kyoi khrak pyot pyat.
+Zsim sjeng qomh myonh dan cjax zjyi, bjii-bra sjeng deng jyuk ngiox drii.
+Je zsjyen siang gionx qjeu siangh kenh, them ciux ghuai tong dryung khai qenh.
+Chen ho myanh huanh sjix chjyt lai, ju braux bjii-bra puanh cja mjenh.
+Tryenx driuk puat ghen sam liangx sjeng, myoih zjeng khyuk deuh sen iux zieng.
+Ghen ghen qiemx qik sjeng sjeng sih, zsix soh bieng sjeng pyot tok cjih.
+Te mii sinh sjux zsyuk-zsyuk dan, sjyet zinx sim triung myo ghrenx zrih.
+Khjeng lungx mranh nenx muat biuh theu, chrio ye «Nge-zjang» ghux «Liuk Qeu».
+Dad ghen zau-zau njo kip yox, sieux ghen chet-chet njo sii ngiox.
+Zau-zau chet-chet chak zop dan, dad cjyo sieux cjyo lak ngyuk buan.
+Krenh kruan qreng ngiox hrua tex ghruet, qy qet liu zyen sjyix ghrax than.
+Sjyix zyen lrangx srip ghen nging zyet, nging zyet pyot thung sjeng ziemx hiat.
+Piet iux qy zriu qomh ghonh srieng, chiex zji myo sjeng sjingh iux sjeng.
+Ngin beng zrah phuah sjyix ciang prengh, thet gieh duot chjyt tau chiang mieng.
+Khyuk cjung sju puat tang sim ghruek, siih ghen qjit sjeng njo liet brak.
+Tung zsjyen se pyangh chieux myo ngian, jyi kenh krung sim chiu ngyat brak.
+Drim ngim pyangh puat chrep ghen triung, cjengx tuonh qioi zjang khix liemx jyung.
+Ziih ngian “puonx zjex kieng zjeng nriox, kra zaix Ghra-mra Ling ghrax dryoh.
+Zjip sam ghruk tok bjii-bra zjeng, mjeng zjyuk krauh pyang deh qjit bux.
+Khyuk brex zjang krauh zjenx zai biuk, criang zjeng muaix biex chiu nriang toh.
+Ngox ling nen sjeuh creng drien du, qjit khyuk ghung sieu pyot trie sryoh.
+Denh du ngin pe kek cet suaih, huet srik la gyon phyan ciux qoh.
+Kim nen huan sieuh biuh mieng nen, chiu ngyat chjyn piung tongx ghren doh.
+Dex cux zyung kyon qa-jii siix, moh khioh trieu lai ngran srik koh.
+Muon zen lrangx lak chja mrax hioi, laux dad krah cak sjang njin biux.
+Sjang njin dryungx liih khjeng biet lie, zen ngyat Biu-liang mrex dra khioh.
+Khioh lai krung khux sjux khung zsjyen,” njeux chang mieng ngyat krung sjyix ghan.
+Jah sjim huot miungh sjeuh nen zrih, miungh de criang lyih ghung lan-kan.
+Ngax myon bjii-bra jix thanh sik, iuh myon chiex ngiox dryung cik-cik.
+Dung zjex then ngre lyn lak njin, siang byung gha pjit zong siang sjik?
+Ngax zyung khioh nen zsi teh kieng, trek kio nguah biengh Zsim-jang zjeng.
+Zsim-jang diih phjek myo qim ngruk, cjung syed pyot myon si triuk sjeng.
+Dryox ginx Buon zjeng diih te sjip, ghuang lo khox triuk njeux drak srieng.
+Gi kren tanh moh myon gha myot, dox kuen de huet yan qai mieng.
+Chjyn krung hrua trieu chiu ngyat jah, yangx-yangx chyox ciux ghruan duk khjyeng.
+Khioix myo sren ka jox chuon dek, qu-qrah trau-trat nan ye theng.
+Kim jah myon kyon bjii-bra ngiox, njo theng sien ngruk njix zamh mieng.
+Mak zsi krangh zuax dan qjit khyuk, yeh kyon phyan cak bjii-bra ghrang.
+Komx ngax chiex ngian liang kiux lip, khiak zuax chyuk ghen ghen tryenx kip.
+Che-che pyot zsix hiangh zen sjeng, muanx zuah dryung myon krai qiemx khip.
+Zuah triung khip ghrax zjyi cuad ta, Krung Cju si mrax cheng sram sjip.
+
+
+67. 
+
+Ghan pie
+
+Lix Sjang-Qionx
+
+Ngyan-ghua then cix zsjin myox cii, piex gha njin cai hian jox hie.
+Zjed ciang zjangx syet liet sjengh thrix, zuax pyap khung triung drieu siih jii.
+Ghruai se iux zok ngox zjip caix, pyung lang srieng thryo thryo srieng pie.
+Pyot kioh sren gha kioh bieng diih, driang kua liih miu njit khax hye.
+Teh tok sjengh siangh siangh yat Doh, zok cjak pyot siix zsjin byo dri.
+Qjeu ghuen siangh qjinh cak to thuungh, qim piung chomx damx then yang gi.
+Soh myox kox thung cak ngra craux, ngie zau nguad lang zaih pit zsye.
+Ghrang kyon si mrax trieh chiax jyungx, zjip siih myanh cjungh ju hox bjii.
+Njip Chad byak zok hianh thad mieuh, kung myo jox njangh qon pyot cie.
+Teh yat njox Doh kung deh qjit, njox zyung zrih Jyox ngie ye zsi.
+Jyox praih khex sjux dauh chiax myox, kim zjek khok ghruek zjin nong ye.
+Kox cjax sjed chjing dad sjux pit, chiex zrih pyot gheh yo cjik si.
+Tang njin ziih kox iux pyot njangh, ngian kiot lyoh ghomx then cix ji.
+Kung thuaih crai kraih zuax sieux kak, njyo njemx dad pit gha lim-lie.
+Temx chuanh Ngeu tenx Sjynh tenx zih, do kaix chieng mieuh srieng mjin sji.
+Myon zjeng phuah thex sjo zaix cjex, chieng zjin caih praih pho tan drii.
+Pieux yat zjin Jyox muaih siix zjangx, yengh zsjin sjengh kung sjo cji pie.
+Pie kau sam driangx zih njo tux, biux jix leng ngau buan jix thrie.
+Kyoh gie ngiox dryungx jyoh cjax sjeux, zrem cji then cix ngian gi sii.
+Driang zsjing prak chjek jet pie taux, cho sra dad zjek siang mua dri.
+Kung cji sie myon njak ngyan khioih, sen zji jix njip njin kan bje.
+Thang buan Khungx tengx iux zsjyt cak, kim myo gi khiih zuon gi zsi.
+Qo-ho sjengh yang gip sjengh siangh, siang jox hyanx hrak liu zjyn hi.
+Kung cji sie myon pyot zsjiih ghux, ghat jox sam ngox siang phran tryi.
+Ngyanh sjo myanh puonx zsyungh myanh penh, khux kruk liu muat iux sjux trii.
+Dryen cji chit zjip iux njiih daih, jix ye pyung zjenh ngyuk kiemx mieng dang ki.
+
+#Chit ngian ngruk pyox
+
+68. 
+
+Qen ka ghrang
+
+Kau Sjek
+
+Hanh kra qen drin zaix tung pok, Hanh ciangh zsi kra phuah zan zok.
+Nom nje puonx ziih dryungx ghruang ghrang, then cix pyoi zjang sieh ngran srik.
+Chrung kim byat kox ghrah Jyo Kruan, cieng gi qye-je Giat-zjek kren.
+Ghrauh qyoih yox sjo pyoi Ghanh-haix, zjen-yo liep huax cjeuh Lang Sren.
+Sren chjyen seu-deu gik pen thox, gho gieh Bing-ling zop piung yox.
+Cjenh zrix kyon zen puanh siix srieng, miix njin triangh ghrax ju ka myox.
+Dad mak giung chiu saih chaux sryi, ko zjeng lak njit tuh pieng hioi.
+Sjin tang qon ngyoh zjang khjeng dek, lik zinx kruan sren myoih krex yoi.
+Thet qioi yanx sjyoh sin gion kiux, ngyuk drioh qing de biet lie ghux.
+Sjeuh biux zjeng nom jyuk duanx driang, cjeng njin Keh pok khung ghuai sjux.
+Pen piung phjeu-phjeu nax khax dak, zyet yk chang-mang krangh gha iux.
+Sret khioih sam zji cak drinh yon, ghan sjeng qjit jah dryen teu tux.
+Siang khan brak njinh huet phyon-phyon, siix cet zyung lai khioix koh hyon.
+Kyon pyot kenh sra driang creng cjenh khox, cjiih kim ju qik Lix ciang kyon.
+
+69. 
+
+Kox zyung kyon ghrang
+
+Lix Gioi
+
+Brak njit tong sren myangh phyung huax, ghuang huon qimh mrax bangh Krau-gha.
+Ghrang njin teu tux piung sra qomh, kung cjyox bjii-bra qy qyanh ta.
+Jax jyeng myanh lix myo zjeng kuak, yox syet phyon-phyon lien dad mak.
+Gho ngranh qai mieng jah jah pyoi, gho nje ngrenx lyih srung srung lak.
+Myon daux Ngyuk-muon ju biex cja, qing ciang siengh miengh driuk khjeng chja.
+Nen nen cjenh kuot mrai huang nguad, khung kenh bo-dau njip Hanh kra.
+
+
+70. 
+
+Lak-jang nriox nje ghrang
+
+Yang Jyi
+
+Lak-jang nriox nje tuaih muon kio, zai khax ngran jyung zjip ngox jo.
+Liang njin ngyuk lok zsjing chung mrax, zjih nriox kim buan kuad lix ngio.
+Ghrueh kak cjyo lu zinx siang myangh, ghung dau lyuk liux zjye jem hiangh.
+La yoi sungh zjangx chit hiang chja, paux sjenh ngieng kyoi kiux ghrua triangh.
+Gyang pyo piuh kyoih zaix cheng chjyn, qih khioih kieu sja giek Kjyih-lyn.
+Ziih len piek ngyuk chin krau myox, pyot siek san-gho dri jox njin.
+Chjyn chrung zjoh mjet kiux myoi huax, kiux myoi phenh phenh pyoi hrua suax. (瑣)
+Hieh brex zong myo lix khyuk zji, criang zjeng cjex zjex hyon hiang zuax.
+Zjeng triung siang sjik zinx byan ghrua, njit jah keng kua Drieux Lix kra.
+Zjyi len Yat nriox ngran njo ngyuk, bin zienh krung du ziih ghuanx sra.
+
+
+71. 
+
+Laux ciangh ghrang
+
+Yang Jyi
+
+Sjeuh nen zjip ngox njiih zjip zji, boh ghrang duat tok gho mrax gie.
+Zsjek sret sren triung brak ngrak hox, khongx sryox Ngiap ghrax ghuang syo nje.
+Qjit sjin tryenx cjenh sam chen lix, qjit kiamh zong tang prak myanh srii.
+Hanh pieng pyonh synh njo phek-lek, lox gieh puon dong qyoih zit-le.
+Yed Cheng pyot brad ju then ghrengx, Lix Kuangx myo kung jyen sruk gie.
+Ziih zyung khjiih trih bjenh sryi hiux, sjed zrih cha-da zjeng brak sjux.
+Siek zji pyoi cienh myo zyen miuk, kim njit zjye jang srieng cax triux.
+Loh bang zji mreh koh gu krua, muon zen ghruk cjyungh sen srieng liux.
+Chang-mang kox muk lien giung ghrungh, leu-lak ghan sren tuaih hio jux.
+Zjed liengh Srio-lok chjyt pyoi zyen, pyot zsix Jyengx-chjyen khung srix ciux.
+Ghah-lan sren ghrax drinh njo yon, yox ghek krau drie njit zsiek myon.
+Cet srih sam gha moh nen sjeuh, cjeuh sjo ngox daux chjyt ciang kyon.
+Sjih phyot thet qioi njo syet srik, leu dri paux kiamh dungx seng myon.
+Ngyanh tok Qen kiung zsjek dad ciangh, thrix liengh Yat krap mieng ngo kyon.
+Mak ghem giuh njit Yon-triung sjuh, ju khom qjit cjenh lip kung hyon.
+
+
+72. 
+
+Dau-ngyan ghrang
+
+Yang Jyi
+
+Ngio cju driuk sjyix qaih sren chjyn, liangx nganh dau hrua krep kox cin.
+Zuax khan ghung zjyoh pyot trie yanx, ghrang zinx cheng khe huot drih njin.
+Sren khux ziem ghrang sjix quaih-qiuk, sren khai khuangh myangh zsyen bieng liuk.
+Jeu khan qjit chjoh zuan yon zjyoh, gionh njip chen kra sanh hrua triuk.
+Zieu khrak chrio dryen Hanh siengh mjeng, kio njin myoih kaix Zin qioi biuk.
+Kio njin gyungh dryoh Myox-ling ngyan, ghruan zyung myot nguad khix den yan.
+Ngyat mieng zsyung ghrax byang lung ziengx, njit chjyt yon triung ke khuenx hyan.
+Kieng myon zsyuk khrak creng lai zip, giengh jinx ghruan kra myonh to qip.
+Bieng mieng lio ghrungh saux hrua khai, bak moh ngio zieu zsjing sjyix njip.
+Chrio qjin bjeh diih khioh njin kren, krangh myonh zsjin sien zsyih pyot ghruan.
+Ghrep lix zjyi trie iux njin zrih, sjed triung jeu myangh khung yon sren.
+Pyot ngi leng kiengx nan myon kenh, drin sim myoih zinx si hiang ghuenh.
+Chjyt dungh myo luonh krek sren sjyix, zsi kra cjung ngix driang ju jenh.
+Ziih yoih keng kua giuh pyot me, qan trie phyung hak kim lai pienh.
+Tang zji cjex kih njip sren sjim, cheng khe kioix doh tauh yon lim.
+Chjyn lai penh zjex dau hrua sjyix, pyot bienx sien ngyan gha chjoh zsim.
+
+
+73. 
+
+Zjyuk daux nan
+
+Lix Brak
+
+Qi hyo hieh, ngye gho kau cai, Zjyuk daux cji nan nan qio zjangx cheng then.
+Zom-zung gip Ngio-byo, khai kuok gha mang njen.
+Njex lai siih myanh pret chen syed, pyot jox Zin saih thung njin qen.
+Se tang thad brak iux teux daux, khax jix ghruang zyet Nga-mii then.
+Diih pong sren zuai criangh zrix siix, njen ghux then the zjek zranh pyang ku lien.
+Zjangx iux liuk lyung ghuai njit cji kau pjeu, ghrax iux chjyung pua ngiek cjet cji ghuai chjyen.
+Ghuang ghak cji pyoi zjangh pyot tok kua, yan nau jyuk doh zriu phran jyen.
+Chen ne gha buan-buan, prak boh kiux cjet qjyeng ngram luan.
+Muon Srim lek Ciengx ngiangx hiap sik, jix sjux phyox qing zuax driang than.
+Myonh kyon se ju gha zji ghruan, qyoih do zram ngram-pyot khax phran.
+Danx kenh pii teux ghau kox muk, iung pyoi zyung chie njeux lim kren.
+Iuh myon cix-kjye de jah ngyat, zriu khung sren.
+Zjyuk daux cji nan nan qio zjangx cheng then, srix njin theng chiex teu cjyo ngran.
+Lien phyung khioh then pyot jeng chjek, kho zsyung tauh krueh qiex zyet pek.
+Pyoi thuan buk liu creng hyan huai, phing ngre tryenx zjek myanh hak luai.
+Gi hiemx jax njak chiex, cia njex yanx daux cji njin gho yeh gho lai cai?
+Kiamh-kak zreng-ghrueng nji zuai-nguai, qjit pyo tang kruan, myanh pyo mak khai.
+Sriox sjux ghuok pyoix chin, hruah ye lang jox zrai.
+Trieu bjeh mrangx hox, zsiek bjeh driang zsja, mua ngra zsjynx huet, sret njin njo mra.
+Kimx Zjeng syi yon lak, pyot njo caux ghruan kra.
+Zjyuk daux cji nan nan qio zjangx cheng then, crik sjin se myangh driang cii-cia.
+
+
+74. 
+
+Driang siang si
+
+Lix Brak
+
+Driang siang si, zaix Driang-qan.
+Lak yoih chiu de kim ciengx lan, myoi sriang che-che demx srik ghan.
+Ko tong pyot mieng si jyuk zyet, kyenx yi myangh ngyat khung driang than.
+Miix njin njo hrua krek yon tuan, zjangx iux cheng meng cji driang then, ghrax iux lyuk sjyix cji pua lan.
+Then driang diih yanx ghuon pyoi khox, miungh ghuon pyot tauh kruan sren nan.
+Driang siang si, zuai sim kan.
+
+
+75. 
+
+Driang siang si
+
+Lix Brak
+
+Njit srik jyuk zinx hrua ghom qen, ngyat mieng jyuk soh zriu pyot men.
+Drieux srit chrio deng biungh-ghuang dryox, Zjyuk gim jyuk cuh qyan-qiang ghen.
+Chiex khyuk iux qih myo njin dryen, ngyanh zsye chjyn piung kieh Qen-njen.
+Qik kyon deu-deu krek cheng then, siek zji ghruang pua miuk, kim cak liu lyih zyen.
+Pyot sinh chiep driang duanx, kyoi lai khan chyox mieng kiengh zen.
+
+
+76. 
+
+Ghrang loh nan
+
+Lix Brak
+
+Kim cuon chieng ciux tux zjip chen, ngyuk buan trin siu drik myanh zien.
+Deng puai du drioh pyot nong zsjik, bret kiamh siih koh sim mang njen.
+Jyuk doh Ghuang Gha ping sok chjyen, ciang tong Thad-ghang syet muanx sren.
+Ghren lai zjye teuh zuax khe zjangx, huot biuh zsjing cju miungh njit pen.
+Ghrang loh nan, ghrang loh nan, ta gje loh, kim qan zaix.
+Driang piung phuah langh ghuad iux zji, drik krueh yon byam ceh chang haix.
+
+
+77. 
+
+Chiang cinh ciux
+
+Lix Brak
+
+Kyon pyot kenh Ghuang Gha cji sjyix then zjangh lai, puon liu tauh haix pyot biuk ghuai.
+Kyon pyot kenh kau dang mieng kiengh pii brak pyat, trieu njo cheng si moh zjeng syet.
+Njin srieng tok qih syo zinx huan, mak srix kim cuon khung tuaih ngyat.
+Then srieng ngax zai pjit iux jyungh, chen kim sanh zinx ghruan biuk lai.
+Phrang jang caix ngiu chiax ye lak, ghuad syo qjit qimx sam prak puai.
+Zrim pyo cix, Tan-khiu srieng, chiang cinh ciux, puai mak deng.
+Jox kyon ka qjit khyuk, chiengx kyon yeh ngax khjyeng njix theng.
+Cjyung kox zruanx ngyuk gha cyuk kyoih, danx ngyanh driang cyih pyot ngyanh seng.
+Kox lai sjengh ghen krai zek-mak, jyi iux qimx cjax liu gi mjeng.
+Drin yang siek zji qenh bieng lak, tux ciux zjip chen ciih huan hiak.
+Cjyox njin gha ye ngian sjeux zien, kengh syo ko chyox tuaih kyon cjak.
+Ngox hrua mrax, chen kim giu, ho nje ciang chjyt ghuanh miix ciux, jox njex dung sieu myanh kox zriu.
+
+
+78. 
+
+Pieng chja ghrang
+
+Dox Pyox
+
+Chja lin-lin, mrax seu-seu, ghrang njin kiung cienh kak zaix qjeu.
+Ja nriang che cix cux siang sungh, drin qai pyot kenh Ghrem-jang gieu.
+Khen qioi tuonh cyuk lan daux khuk, khuk sjeng drik zjangx kan yon sieu.
+Daux bang kua cjax myonh ghrang njin, ghrang njin danx yon temx ghang bjin.
+Ghuok zyung zjip ngox pok byang gha, bjenh cjiih siih zjip se jyeng den.
+Khioh zji lix cjengh jox kuax du, kyoi lai du brak ghruan sjyoh pen.
+Pen deng liu huet zjeng haix sjyix, Myox ghuang khai pen qih myoih jix.
+Kyon pyot myon Hanh kra Sren-tung njiih prak cju, chen chuon myanh lak srieng kieng khix.
+Cyungh iux gianh biux prax zrio le, ghua srieng lyungx mux myo tung se.
+Hyangh biuk Zin pieng naih khox cjenh, biex khyo pyot jih khuenx jox ke.
+Triangx cjax syi iux myonh, jyek pyo kamx sjin ghonh.
+Chiax njo kim nen tuung, myoih hiu Kruan-se cyt.
+Ghuenh kuan kip sriek co, co sjyed zyung gha chjyt?
+Sinh trie srieng nom qak, pyanx zjex srieng nriox haux.
+Srieng nriox ju tok krah bjiih lin, srieng nom mrai muot zsye prak chaux.
+Kyon pyot kenh, Cheng Haix du, kox lai brak kuot myo njin sju.
+Sin kyoix byan qyan giuh kyoix khuk, then qim yox sjip sjeng ciu-ciu.
+
+
+79.
+
+Leh njin ghrang
+
+Dox Pyox
+
+Sam ngyat sam njit then khioih sin, Driang-qan sjyix pen ta leh njin.
+Thaih nryung qih yanx zjuk chiax cjin, kii lix seh nriih kuot njuk jyn.
+Siuh la qioi zjang cjeuh moh chjyn, ciuk kim khungx ciak ngin gi-lin.
+Du zjangh gha sriox iux, chyih myoi qop jep zjye pjinh zsjyn.
+Puaih ghux gha sriox kenh, cjyo qrap qjeu kiap quonx chjingh sjin.
+Ziuh triung yon mak cieu byang chin, sieh mjeng dad kuok Kruak jox Zin.
+Ciex da cji phyung chjyt chyih byox, sjyix cieng cji buan ghrang soh lin.
+Se drioh qjemh qioh kiux myoih ghrah, luan tau lyox chet khung phyon-lyn.
+Ghuang muon pyoi khungh pyot dungx drin, ngioh dryo lak-jek sungh pret trin.
+Seu kox qai ngim komx kyoix zsjin, pjin zyungh zop-dop zsjit qjeuh cin.
+Ghux lai qan mrax gha chyn-zsyn, tang hian ghrah mrax njip kimx qjin.
+Jang hrua syet lak phiuh brak bjin, cheng teux pyoi khioh ghram ghung kin.
+Cjek sjux khax njet sjed zyet lyn, zjinh mak gionh zen zjing siangh chjin.
+
+
+80.
+
+Qai krung du
+
+Dox Pyox
+
+Sjeuh-ling jax laux thon sjeng khuk, chjyn njit ziem ghrang khyuk krung khyuk.
+Krung du kiung denh suax chen muon, seh liux sin bo yeh zjyi lyuk.
+Qik siek nge cieng ghrah Nom-qyanx, qyanx triung myanh myot srieng ngran srik.
+Cjeu-jang Denh lix deh qjit njin, dung lienx zsye kyon zjih kyon crik.
+Lienx zen zai njin tad kiung cienh, brak mrax ziak nget ghuang kim lok.
+Phyan sjin hiangh then ngiangx zsjek yon, qjit cienh cjengh dryih srung pyoi jik.
+Mieng miu ghaux chjix kim gha zaix, huet qoh ju ghuon kyoi pyot tok.
+Chieng Yoih tung liu Kiamh-kak sjim, khioh dryoh piex chiex myo sieu sik.
+Njin srieng iux zieng lyih triem qik, krung sjyix krung hrua khioix cjung gik.
+Ghuang huon gho gieh drin muanx zjeng, jyuk yangx zjeng nom myangh zjeng pok.
+
+
+81.
+
+Qai yang suon
+
+Dox Pyox
+
+Driang-qan zjeng du du brak qo, jah pyoi Jen-chiu Muon zjangh ho.
+Iuh hiangh njin kra truk dad quk, quk tex dat kuan cux bjeh gho.
+Kim pjen duanx zjet kiux mrax siix, kuot njuk pyot daix dung drie khyo.
+Qjeu ghrax paux kuet cheng san-gho, khax len yang suon khip loh ngyo.
+Myonh cji pyot khongx daux siengh mjeng, danx daux kuonh khox khiot ye no.
+Jix keng prak njit chuanh kieng kik, sjin zjangh myo iux ghuan kii pyo.
+Kau Teh cix suon zinx liung cjynx, lyung cjyungx ziih jox zjang njin zjyo.
+Zrai lang zaix qip lyung zaix jax, yang suon zjenx paux chen kim khyo.
+Pyot kamx driang ngiox lim krau gyo, chiax yeh yang suon lip sie syo.
+Zak jah tung piung chjye huet seng, tung lai thak da muanx giuh to.
+Sruk-pyang gianh nje haux sjin sjux, siek gha jyungx jyed kim gha ngyo.
+Chet myon then cix jix dryen yih, sjengh tok pok biuk nom Zjen-yo.
+Hrua muon li mjenh chiengx syet thrix, zjinh myot chjyt khux tha njin chio.
+Qai cai yang suon zjinh myot srio, Ngox-ling kre khioih myo zji myo.
+
+#Ngox ngian lyt sji
+
+82.
+
+Keng Lox cied Khung cix nji thanh cji
+
+Dang Ghuen Cuung
+
+Pyo cix gha ye cjax, se-se qjit daih triung.
+Diih ju Criu zjex qip, drak cik Lox yang kiung.
+Thanh biungh cia sjin piux, sjang lin qyanh daux giung.
+Kim khan liangx jeng denh, tang jox miungh zji dung.
+
+
+83.
+
+Myangh ngyat ghruai yanx
+
+Triang Kiux-Leng
+
+Haix zjangh srieng mieng ngyat, then ngre gyungh chiex zji.
+Zieng njin qyanh jeu jah, kiengh zsiek khix siang si.
+Mjet cjyuk len kuang muanx, phie qioi kruk loh ci.
+Pyot khom jeng sjux zongh, ghruan chimx miungh kre gi.
+
+
+84.
+
+Dox sjeuh pyox cji njim Zjyuk Cju
+
+Yang Buot
+
+Zjeng khyat byox sam Zin, piung qen myang ngox cin.
+Jox kyon lie biet qih, dung zjex ghruanh ju njin.
+Haix nuaih zuon trie kix, then ngre njak bjiih lin.
+Myo ye zaix gje loh, nje nriox gyungh triem kin.
+
+
+85.
+
+Zaix ngyuk yengh zjen
+
+Lak Pjin-Yang
+
+Se liuk zjen sjeng chjangh, nom kuanh khrak si sjim.
+Pyot khom ghuen pjinh qiengx, lai tuaih brak du ngim.
+Loh dryungx pyoi nan cinh, piung ta hiangx jeh drim.
+Myo njin sinh kau ket, zjyi yeh pieux jo sim?
+
+
+86. 
+
+Ghuah Cinh-ling Liuk Zjing caux chjyn ju myangh
+
+Dox Sjimx-ngian
+
+Duk iux ghruanh ju njin, phjen kieng myot ghuh sin.
+Yon ghra chjyt haix zjoh, muai liux doh krung chjyn.
+Zjuk khioih chuai ghuang teux, zieng kuang tryenx lyuk bjin.
+Huot myon ka kox deuh, kyoi si jyuk triem kin.
+
+
+87.
+
+Zop sji
+
+Sjimx Chyen-Gi
+
+Myon daux Ghuang-lyung sjyoh, bjin nen pyot krex pieng.
+Khax len kue lix ngyat, triangx zaix Hanh kra jyeng.
+Sjeuh biux kim chjyn qih, liang njin zak jah zieng.
+Zjyi nong ciang gi kox, qjit ye chyox Lyung Zjeng?
+
+
+88.
+
+De Dad-jyox Liengx Pok Jek
+
+Suungh Cji-Myonh
+
+Jang ngyat nom pyoi ngranh, dryen myon cjiih chiex ghuai.
+Ngax ngrang zjyo myoih jix, gha njit biuk kyoi lai.
+Krung ziengx drieu chrio lak, lim huon cjangh pyot khai.
+Mieng trieu myangh hiang chjoh, qing kenh lyungx du muai.
+
+
+89. 
+
+Chiih Pok-koh Sren ghrax
+
+Yang Qruan
+
+Khrak loh cheng sren ghrax, ghrang cju lyuk sjyix zen.
+Drieu bieng liangx nganh kren, piung cjengh qjit byam ghuen.
+Haix njit srieng zan jah, krung chjyn njip giuh nen.
+Hiang sjo gha chjoh dat, kyoi ngranh Lak-jang pen.
+
+
+90. 
+
+Phuah sren zsih ghux zjen yenh
+
+Zjang Kianh
+
+Chieng zjin njip kox zsih, chrio njit cjeuh kau lim.
+Khyuk kengh thung qy chjoh, zjen byang hrua muk sjim.
+Sren kuang jyet teux siengh, dom qieng khung njin sim.
+Myanh lad chiex krai zek, jyi myon cjyung khengh qim.
+
+
+91. 
+
+Kieh cax sriengx Dox zjip jyi
+
+Zrim Srim
+
+Lien boh chyo tan bex, pyon zau ghrenx ciex myoi.
+Heux zsye then driangx njip, moh njax ngioh hiang kyoi.
+Brak pyat pii hrua lak, cheng yon zsienh teux pyoi.
+Sjengh drieu myo khyat zrih, ziih kruk kranh sjo hioi.
+
+
+92. 
+
+Zongh Mrangh Ghaux-Njen
+
+Lix Brak
+
+Ngo qaih Mrangh pyo cix, piung liu then ghrax myon.
+Ghung ngran khjiih hian mienx, brak sjux nguah zsyung yon.
+Cyih ngyat bjin triung sjengh, me hrua pyot zrih kyon.
+Kau sren qan khax ngiangx, do chiex qjip chieng phyon.
+
+
+93. 
+
+Doh Kieng-muon sungh biet
+
+Lix Brak
+
+Doh yanx Kieng-muon nguad, lai zyung Chriox kuok ju.
+Sren zsye bieng jax zinx, krung njip dad huang liu.
+Ngyat ghrax pyoi then kiengh, yon srieng ket haix lu.
+Njing len koh hiang sjyix, myanh lix sungh ghrang cju.
+
+
+94. 
+
+Sungh iux njin
+
+Lix Brak
+
+Cheng sren ghruang pok kuak, brak sjyix njeux tung zjeng.
+Chiex diih qjit ye biet, ko bung myanh lix cjeng.
+Biu yon ju cix qih, lak njit koh njin zieng.
+Hyoi sjux ziih ci khioh, seu-seu pran mrax mieng.
+
+
+95. 
+
+Theng Zjyuk song Synh dan gim
+
+Lix Brak
+
+Zjyuk song baux lyuk khiex, se ghrah Nga-mii phyung.
+Yeh ngax qjit hyoi sjux, njo theng myanh hak zsyung.
+Khrak sim sex liu sjyix, jo hiangx njip sriang cjyung.
+Pyot kruk piek sren moh, chiu yon qomh kioix dryung.
+
+
+96. 
+
+Jah bak Ngiu Cjox ghruai kox
+
+Lix Brak
+
+Ngiu Cjox se krung jah, cheng then myo phenh yon.
+Tong cju myangh chiu ngyat, khung qik Zsiah ciang kyon.
+Jo jek nong kau yengh, sie njin pyot khax myon.
+Mieng trieu krueh byam khioh, piung jep lak phyon-phyon.
+
+97. 
+
+Chjyn myangh
+
+Dox Pyox
+
+Kuok phuah sren gha zaix, zjeng chjyn chaux muk sjim.
+Komx zji hrua cienh lyih, ghonh biet teux kieng sim.
+Phyung huax lien sam ngyat, kra sjo tex myanh kim.
+Brak du sau krangh tuanx, ghuon jyuk pyot sjing crim.
+
+
+98. 
+
+Ngyat Jah
+
+Dox Pyox
+
+Kim jah Phyo-cju ngyat, kue triung cjex duk khan.
+Jeu len sieux nje nriox, myoih ghrex qik Driang-qan.
+Hiang myoh yon ghruan sjip, chieng hyoi ngyuk pjeh ghan.
+Gha zji qiex hio ghuangx, srung cjeuh lyih ghon kan.
+
+
+99. 
+
+Chjyn siuk cax sriengx
+
+Dox Pyox
+
+Hrua qionx jek yan moh, ciu-ciu se teux kua.
+Seng lim myanh ghox dungx, ngyat bangh kiux sieu ta.
+Pyot chimx theng kim jak, qjin piung siangx ngyuk kha.
+Mieng trieu iux pyung zrih, sruk myonh jah njo gha.
+
+
+100. 
+
+Cjiih-tok njiih nen pyox ziih Kieng Kim-kuang Muon chjyt krenh daux kyoi Biungh-zsiang Gien-ngyat chrio zyung cax zjip jyi je Ghruah-cju jyenh jox chin koh biet qjin chjyt chiex muon iux pii yangx zrih
+
+Dox Pyox
+
+Chiex daux siek kyoi zsjynh, se krau gho cjengh byan.
+Cjiih kim ju phuah tamx, qing iux myoih cjeu ghuon.
+Gionx zjih kyoi kieng qip, je kuan khioix cjiih cuon.
+Myo zai njit sryi laux, tryoh mrax myangh chen muon.
+
+
+101. 
+
+Ngyat jah qik sjah dex
+
+Dox Pyox
+
+Sjyoh kox tuanx njin ghrang, chiu pen qjit ngranh sjeng.
+Loh zyung kim jah brak, ngyat zjex koh hiang mieng.
+Iux dex krai pyon sanh, myo kra myonh siix srieng.
+Kieh sjo driang pyot dat, hyangh naix myoih hiu pieng.
+
+
+102. 
+
+Then muat ghruai Lix Brak
+
+Dox Pyox
+
+Liang piung khix then muat, kyon cix qih njo gha.
+Ghung ngranh kioix zji tauh, krung gho chiu sjyix ta.
+Myon cjang cong miengh dat, thrie miih hix njin kua.
+Qing gyungh qyan ghuon ngiox, du sji zongh Mek-la.
+
+
+103. 
+
+Byungx-ceh Jek dryung sungh Ngiam kung siih yonh
+
+Dox Pyox
+
+Yanx sungh zyung chiex biet, cheng sren kung biuk zieng.
+Kioix zji puai dryung prax, zak jah ngyat dung ghrang.
+Liet gyonh qu ka siek, sam drieu chjyt njip yeng.
+Krung chuon duk kyoi chjoh, zek-mak jangx zan srieng.
+
+
+104. 
+
+Biet Byang thad qyoih moh
+
+Dox Pyox
+
+Tha hiang biuk ghrang jyek, tryoh mrax biet ko byon.
+Gionx lyih myo kan thox, te khung iux duanx yon.
+Tuaih gi buai Zsiah pyoh, prax kiamh mek Zsio kyon.
+Jyi kenh lim hrua lak, qreng de sungh khrak myon.
+
+
+105. 
+
+Liox jah sjo ghruai
+
+Dox Pyox
+
+Seh chaux myoi piung nganh, ngye ziang duk jah cju.
+Seng zjye bieng jax khuat, ngyat jyungx dad krung liu.
+Mjeng khioix myon cjang trioh, kuan qing laux biengh hiu.
+Phjeu-phjeu gha sriox zsix, then diih qjit sra qu.
+
+
+106. 
+
+Tong Ngruk-jang Lu
+
+Dox Pyox
+
+Siek myon Dungh-deng sjyix, kim zjangx Ngruk-jang Lu.
+Ngo Chriox tung nom thrak, gien khuon njit jah biu.
+Chin bong myo qjit zih, laux biengh iux ko cju.
+Njung mrax kruan sren pok, bing hian theh siih liu.
+
+
+107. 
+
+Myangx-chjyen ghren kio zongh Buai siuh zai Dek
+
+Yang Jyi
+
+Ghan sren tryenx chang chyih, chiu sjyix njit zrien-yen.
+Qiex driangx zre muon nguad, lim piung theng moh zjen.
+Doh du jo lak njit, khio lix zjangx ko qen.
+Biuk drih ciep jo cyih, gyang ka ngox liux zen.
+
+
+108. 
+
+Sren kio chiu meng
+
+Yang Jyi
+
+Khung sren sin yox ghux, then khioih myanx lai chiu.
+Mieng ngyat zsyung kren cjeuh, chieng zyen zjek zjangh liu.
+Triuk hyan kyoi ghuanx nriox, len dungx ghrah ngio cju.
+Zsye qih chjyn phyang hiat, yang suon ziih khax liu.
+
+
+109. 
+
+Kyoi Siung sren cak
+
+Yang Jyi
+
+Chieng chjyen tad driang bak, chja mrax khioh ghren ghren.
+Liu sjyix njo iux qih, moh gim siang jox ghruan.
+Huang zjeng lim kox doh, lak njit muanx chiu sren.
+Deu-deh siung kau ghrah, kyoi lai chiax peh kruan.
+
+
+110. 
+
+Cjung-nom Sren
+
+Yang Jyi
+
+Thad qit gionx Then-to, lien sren tauh haix ngyo.
+Brak yon ghuai myangh ghop, cheng qad njip khan myo.
+Pyon jax triung phyung pienh, qim zieng cjungh hak zjyo.
+Jyuk du njin chjoh siuk, krek sjyix myonh zieu pyo.
+
+
+111. 
+
+Zju Triang sjeuh-pyox
+
+Yang Jyi
+
+Myanx nen jyi hauh ziengx, myanh zrih pyot kruan sim.
+Ziih koh myo driang chrek, khung trie pyanx giuh lim.
+Zsyung piung chjye krex tad, sren ngyat cjeuh dan gim.
+Kyon myonh giung thung lix, ngio ka njip phox sjim.
+
+
+112. 
+
+Kua Hiang-ciek Zsih
+
+Yang Jyi
+
+Pyot trie Hiang-ciek Zsih, sruk lix njip yon phyung.
+Kox muk myo njin kengh, sjim sren gha chjoh cjyung.
+Zyen sjeng qet ngye zjek, njit srik lrangx cheng zsyung.
+Bak moh khung dom khyuk, qan zjen cjed duuk lyung.
+
+
+113. 
+
+Sungh Cix-cju Lix srih kyon
+
+Yang Jyi
+
+Myanh hak zjyoh chom then, chen sren hiangx dox kuen.
+Sren triung qjit jah yox, zjyoh mjeux prak dryung zyen.
+Han nriox sjyo dung poh, Pra njin zsyungh yoh den.
+Myon qung phyan krauh zjuh, pyot kamx qiex sen ghen.
+
+
+114. 
+
+Hanh Krung lim theuh
+
+Yang Jyi
+
+Chriox saih sam siang ciep, Kieng muon kiux phreh thung.
+Krung liu then diih nguad, sren srik iux myo triung.
+Gyonh qip biu zen phox, pua lan dungx yanx khung.
+Siang-jang haux piung njit, liu cyih jox sren qung.
+
+
+115. 
+
+Cjung-nom biet ngiap
+
+Yang Jyi
+
+Triung syed phua hauh daux, myanx kra nom sren zjye.
+Hingh lai muaix duk yangx, sjingh zrih khung ziih trie.
+Ghrang tauh sjyix giung chjoh, zuax khan yon khix zji.
+Nguh njen drih lim sux, dam sieuh myo ghruan gi.
+
+
+116. 
+
+Lim Dungh-deng zjangh Triang zjing siangh
+
+Mrangh Ghaux-Njen
+
+Pret ngyat gho sjyix bieng, ghom hio ghuonx thad chieng.
+Khioih cjing Yon-miungh Drak, pua ghomx Ngruk-jang Zjeng.
+Jyuk ceh myo cju ciep, tuan kio thrix sjengh mieng.
+Zuax kuan zjye teuh cjax, do iux zsienh ngio zieng.
+
+
+117. 
+
+Jox cjo cix tong ghenx sren
+
+Mrangh Ghaux-Njen
+
+Njin zrih iux daih zsiah, yangx lai zjeng kox kim.
+Krung sren liu sjingh ciek, ngax puaih biuh tong lim.
+Sjyix lak ngio liang chienx, then ghan miungh drak sjim.
+Jang kung pie zjangh zaix, duk brex lyih triem kim.
+
+
+118. 
+
+Qenh Muai daux zrix sren byang
+
+Mrangh Ghaux-Njen
+
+Lim nguah zriu chjyn zinx, kienx yi lamx myot ghrua.
+Huot byung cheng teux srih, qjeu njip chjek zsyung kra.
+Kim cauh chrio khai huax, sien dau cjengh pyat hrua.
+Dung ngran njak khax tryoh, gha siek cyih liu ghra.
+
+
+119. Syed moh kyoi nom sren
+
+Mrangh Ghaux-Njen
+
+Pok khyat hiu zjangx sjo, nom sren kyoi bjed lio.
+Pyot zai mieng cjyox khjiih, ta biengh koh njin srio.
+Brak pyat chuai nen laux, cheng jang pik syed drio.
+Yengx ghruai zriu pyot mjiih, zsyung ngyat jah chrung hio.
+
+
+120. Kua koh njin criang
+
+Mrangh Ghaux-Njen
+
+Koh njin gyoh ke sjox, qjeu ngax cjiih den kra.
+Lyuk zjyoh chuon pen ghop, cheng sren kuak nguad zsia.
+Khai hian mjenh driang pox, prax ciux ghruad sang mra.
+Daix tauh dryung jang njit, ghruan lai ziuh kiuk hrua.
+
+
+121. 
+
+Zin triung kieh yanx zjangx njin
+
+Mrangh Ghaux-Njen
+
+Qjit khiu zjang jyuk nguah, sam kengh khox myo cii.
+Pok thox pyoi ngo ngyanh, tung lim ghruai ngax srii.
+Ghuang kim njen kueh zinx, criangh cjih driuk nen sryi.
+Njit zsiek liang piung cjiih, myon zjen danx qjek pii.
+
+
+122. 
+
+Siuk Dung-lio Krung kieh Kuangx-ling giuh ju
+
+Mrangh Ghaux-Njen
+
+Sren mengh theng yan zriu, chang krung kip jah liu.
+Piung mieng liangx nganh jep, ngyat cjeuh qjit ko cju.
+Kianh-tok pyoi ngo thox, Jyi-jang qik giuh ju.
+Ghruan ciang liangx ghang lyih, jeu kieh haix se du.
+
+
+123. 
+
+Liu biet Yang Jyi
+
+Mrangh Ghaux-Njen
+
+Zek-zek kiengh gha daix, trieu trieu khung ziih kyoi.
+Jyuk zsim phyang chaux khioh, siek jox koh njin yoi.
+Tang loh zjyi siang krax, trie qim sjed sriox hioi.
+Cjex qing sjux zek-mak, ghruan qiemx koh yan pyoi.
+
+
+124. 
+
+Caux ghan iux ghruai
+
+Mrangh Ghaux-Njen
+
+Muk lak ngranh nom doh, pok piung krung zjangx ghan.
+Ngax kra Siang sjyix khyuk, jeu krek Chriox yon tuan.
+Hiang lyih khrak triung zinx, ko byam then cied khan.
+Me cin jyuk iux myonh, bieng haix zsiek muan-muan.
+
+
+125. 
+
+Chiu njit tong Ngo kung dai zjangx zsih yanx theuh
+
+Liu Driang-Khieng
+
+Kox dai jeu lak ghux, chiu njip myangh hiang sim.
+Jax zsih lai njin sjeux, yon phyung krek sjyix sjim.
+Zsiek jang qioi giuh lyix, ghan khengh muanx khung lim.
+Thriu-thriangh nom drieu zrih, Driang Krung duk ziih kim.
+
+
+126. 
+
+Sungh Lix triung zjing kyoi Hanh-jang piet ngiap
+
+Liu Driang-Khieng
+
+Liu lak cjeng nom ciangh, zong khyo zjip myanh srii.
+Brex kyoi myo giuh ngiap, laux khioh lyenh mieng zji.
+Duk lip sam pen ziengx, khjeng srieng qjit kiamh trie.
+Mang-mang Krung Hanh zjangx, njit moh jyuk gha cji.
+
+
+127. 
+
+Zienx biet Yang zjip qjit nom ju
+
+Liu Driang-Khieng
+
+Myangh kyon qen sjyix khuat, hyoi sjux lyih triem kin.
+Pyoi teux muot gha chjoh, cheng sren khung hiangh njin.
+Driang krung qjit byam yanx, lak njit ngox gho chjyn.
+Zjyi kenh theng cju zjangx, siang si zriu brak bjin.
+
+
+128. 
+
+Zsim nom khe Zjang daux zrix
+
+Liu Driang-Khieng
+
+Qjit loh keng ghrang chjoh, muai dai kenh giek ghon.
+Brak yon qioi ziengx cjox, phyang chaux peh ghren muon.
+Kua yox khan zsyung srik, zsye sren tauh sjyix ngyan.
+Khe hrua jox zjen qih, siang tuaih jek myangh ngian.
+
+
+129. Sin nen cak
+
+Liu Driang-Khieng
+
+Hiang sim sin syed chet, then buanh duk sran njen.
+Laux cjiih kio njin ghrax, chjyn kyoi zaix khrak sen.
+Liengx yan dung tanh moh, krung liux gyungh piung qen.
+Jix zsix Driang-sra pyoh, zyung kim iuh kioix nen.
+
+
+130. 
+
+Sungh song kyoi Njit-puonx
+
+Zien khix
+
+Zjangx kuok zsye jyen dryoh, lai do njak miungh ghrang.
+Biu then chang haix yanx, khioh sjed pyap cju khjeng.
+Sjyix ngyat thung zjen zek, ngio lyung thengh byamh sjeng.
+Jyi len qjit tong qiengx, myanh lix ngrenx triung mieng.
+
+
+131. 
+
+Kuk khux sjo crai kieh Jang pox khyat
+
+Zien khix
+
+Zyen hak tad mrau zii, yon ghra srieng beh yi.
+Triuk len sin yox ghux, sren qaih zsiek jang zji.
+Ghren loh se zjang caux, chiu hrua lak krangh drii.
+Kra dung saux la kengh, zak jox koh njin gi.
+
+
+132. 
+
+Ghruai zjangx hix ghruad Liang cju koh njin
+
+Yoi Qingh-Myot
+
+Krung Hanh zong ye khrak, siang byung muaix cyih ghruan.
+Biu yon qjit biet ghux, liu sjyix zjip nen kren.
+Huan sieuh zieng njo giuh, seu-srio pjinh jix pran.
+Gha qjin pyot kyoi khioh, Ghruaix zjangx iux chiu sren.
+
+
+133. 
+
+Pyoh tok moh yox sungh Lix zau
+
+Yoi Qingh-Myot
+
+Chriox krung myoi yox lix, Kianh-ngiap moh cjyung zji.
+Mak-mak byam lai dryungx, meng-meng teux khioh drii.
+Haix muon sjim pyot kenh, phox zjyoh yanx ghom ci.
+Siang sungh zieng myo ghrenx, triem kim pjiix sanx si.
+
+
+134. 
+
+Zju drieng gionx chiu jah cik zrih kenh zongh
+
+Ghan Ghrueng
+
+Driang demx ngieng piung caux, khung zjeng damh ngyat ghrua.
+Seng gha chiu qjit ngranh, trim chjox jah chen kra.
+Cet ghuh khan qing myanx, sim gi nguah jix sja.
+Hiangh lai ngim siuh kyoh, pyot kruk jix mieng qra.
+
+
+135. 
+
+Khyat de
+
+Liu Zjinh-Hio
+
+Daux ju brak yon zinx, chjyn jox cheng khe driang.
+Zji iux lak hrua cjiih, yanx zsye liu sjyix hiang.
+Ghren muon hiangh sren loh, sjim liux duk sjo dang.
+Qy qiengh muaix brak njit, chieng hyoi cjeuh qioi zjang.
+
+
+136. 
+
+Krung hiang koh njin nguh zip khrak sjah
+
+Taih Sjuk-Lyn
+
+Then chiu ngyat iuh muanx, zjeng khyat jah chen dryung.
+Ghruan cak krung nom ghuad, phyan ngi miungh lix byung.
+Piung cje kieng qomh chiak, loh chaux khip ghan driung.
+Kie liox driang khom cyih, siang liu qyoih heux cjyung.
+
+
+137. 
+
+Sungh Lix Tuan
+
+Lo Lyn
+
+Koh kruan syi chaux penh, lie biet cjengh khom pii.
+Loh chjyt ghan yon nguad, njin kyoi moh syet zji.
+Sjeuh ko ye khrak caux, ta nanh sjik kyon drii.
+Qiemx khip khung siang hiangh, piung drin gha sriox gi.
+
+
+138. 
+
+Hix kenh nguad dex iuh ngian biet
+
+Lix Qjek
+
+Zjip nen lie luanh ghux, triangx dad qjit siang byung.
+Myonh siengh kieng chrio kenh, chjing mjeng qik giuh jyung.
+Biet lai chang haix zrih, ngiox brex moh then cjyung.
+Mieng njit Pra ling daux, Chiu sren iuh kioix dryung.
+
+
+139. 
+
+Yon-jang kuanh jox Ghan sjin siuk biet
+
+Si-Khung Zjoh
+
+Koh njin krung haix biet, kioix doh krek sren chjyen.
+Zrah kenh phyan ngi miungh, siang pii kak myonh nen.
+Ko tong ghan cjeuh yox, sjim triuk qomh biu qen.
+Krangh iux mieng trieu ghonh, lie puai siek gyungh dryen.
+
+
+140. 
+
+Hix nguad dex Lo Lyn ken siuk
+
+Si-Khung Zjoh
+
+Ziengx jah siih myo lin, huang kio giu ngiap bin.
+Yox tiung ghuang jep zjyoh, tong ghrax brak du njin.
+Jix ngax duk drim kiux, kyih kyon siang ken bjin.
+Bieng srieng ziih iux byonh, hyangh zjex huak kra chin.
+
+
+141. 
+
+Zok bieng ghux sungh njin pok kyoi
+
+Si-Khung Zjoh
+
+Sjed luanh dung nom khioh, zji chieng duk pok ghruan.
+Tha hiang srieng brak pyat, giuh kuok kenh cheng sren.
+Heux ngyat kua zan lyix, byan seng siuk koh kruan.
+Ghan gim jox syi chaux, chjoh-chjoh buanx zriu ngran.
+
+
+142. 
+
+Zjyok sen cjyox mieuh
+
+Liu Yox-Sek
+
+Then diih qieng iung khioih, chen chiu zjangh limx njen.
+Sjed pyon sam cyuk tengx, ngiap biuk ngox zjyo zien.
+Tok siangh nong khai kuok, srieng nje pyot zsiangx ghen.
+Che liang zjyok koh giex, lai myox Ngyoih kiung zen.
+
+
+143. 
+
+Muot byan koh njin
+
+Triang Ziek
+
+Zen nen sjyoh Ngyat-cje, zjeng ghrax muot zyen srii.
+Byan hanh duanx sieu sik, siix srieng driang biet lie.
+Myo njin sju pyad triangh, kyoi mrax sjik zan gi.
+Jyuk cied ngi kyon zaix, then ngre khuk chiex zji.
+
+
+144. 
+
+Chaux
+
+Brak Kio-Jeh
+
+Lie-lie ngyan zjangx chaux, qjit syed qjit kho yeng.
+Jax huax sjeu pyot zinx, chjyn piung chjye iuh srieng.
+Yanx phyang chim kox daux, zieng chyih ciep huang zjeng.
+Iuh sungh yang suon khioh, che-che muanx biet zieng.
+
+
+145. 
+
+Liox siuk
+
+Dox Miuk
+
+Liox kuanh myo liang buanx, nging zieng ziih chieux njen.
+Ghan tong si giuh zrih, duanx ngranh kiengx zriu men.
+Yanx miungh kyoi chim heux, kra sjo tauh krek nen.
+Chang krung haux qen ngyat, muon keh teuh ngio zsjyen.
+
+
+146. 
+
+Chiu njit phyoh khyat de Dung-kruan jek lu
+
+Hiox Ghuon
+
+Ghung jep myanx seu-seu, driang deng ciux qjit bjeu.
+Zan yon kyoi thad ghrua, srio yox kua triung deu.
+Zjyoh srik zsjye kruan ghuengx, gha sjeng njip haix jeu.
+Teh hiang mieng njit tauh, ju ziih miungh ngio zieu.
+
+
+147. 
+
+Caux chiu
+
+Hiox Ghuon
+
+Jeu jah phyamh chieng srit, se piung srieng chyih la.
+Zan ghueng se ngyuk loh, caux ngranh phyot kim gha.
+Kau zjyoh heux ghruan mit, yanx sren zieng krangh ta.
+Ghruai nom qjit jep ghrax, ziin kruk Dungh-deng pua.
+
+
+148. 
+
+Zjen
+
+Lix Sjang-Qionx
+
+Puonx jix kau nan praux, do lau ghonh phyoih sjeng.
+Ngox krang srio jyuk duanx, qjit zjyoh piek myo zieng.
+Bak ghruanh krangx ju phyamh, koh yan myo jix bieng.
+Byan kyon cuad siang kiengx, ngax jek kiox kra chieng.
+
+
+149. 
+
+Piung yox
+
+Lix Sjang-Qionx
+
+Che liang paux kiamh phjen, kie bak jyuk giung nen.
+Ghuang jep njing piung yox, cheng lu ziih kuanx ghen.
+Sin trie cau bak zsyuk, giuh haux krek liang jyen.
+Sim duanx sin phiung ciux, sieu zriu iuh kioix chen.
+
+
+150. 
+
+Lak hrua
+
+Lix Sjang-Qionx
+
+Kau kak khrak kiengh khioh, sieux yan hrua luanh pyoi.
+Chrim-chrie lien khyuk mrak, deu-deh sungh zsia hyoi.
+Driang duanx myoih njinx saux, ngrenx chjyen njing jyuk kyoi.
+Phyang sim hiangh chjyn zinx, sriox tok zjex triem qioi.
+
+
+151. 
+
+Liang si
+
+Lix Sjang-Qionx
+
+Khrak khioh pua bieng ghramx, zjen hiu loh muanx cje.
+Yengx ghruai tang chiex cet, qiex lip ziih je zji.
+Pok tux khem chjyn yanx, nom ling ngyoh srih drii.
+Then ngre cjem miungh sryoh, ngi ngoh iux sin trie.
+
+
+152. 
+
+Pok cheng la
+
+Lix Sjang-Qionx
+
+Zan jang se njip qiem, mrau quk phyangh ko song.
+Lak jep njin gha zaix, ghan yon loh kioix zong.
+Duk khrau chrio jah khengh, ghren qiex qjit cje dong.
+Sjed kraih myoi drin lix, ngo nengh qaih jox cong.
+
+
+153. 
+
+Sungh njin tung ju
+
+Quon Deng-Yn
+
+Huang sjyoh lak ghaung jep, ghaux njen lie koh kruan.
+Kau piung Hanh-jang doh, chrio njit Jengx muon sren.
+Krung zjangx kioix njin zaix, then ngre ko drauh ghruan.
+Gha tang dryung siang kenh, cuon ciux qyoih lie ngran.
+
+
+154. 
+
+Prah zjangx ciu kio
+
+Mrax Taih
+
+Prah ngyan piung yox dengh, myanx kenh ngranh ghrang bjin.
+Lak jep tha hiang zjyoh, ghan tong duk jah njin.
+Khung yan brak loh tek, ko pek jax song lin.
+Kieh nguah krau pyoi kiux, gha nen triih chiex sjin.
+
+
+155. 
+
+Chriox krung ghruai kox
+
+Mrax Taih
+
+Loh khioih ghan kuang zip, myoi jang ghrah chriox khiu.
+Yan de Dungh-deng zjyoh, njin zaix muk lan cju.
+Kuangx drak srieng mieng ngyat, chang sren krep luanh liu.
+Yon triung kyon pyot kenh, kiengh zsiek ziih pii chiu.
+
+
+156. 
+
+Sjo pen zrih
+
+Triang Gieu
+
+Deu kruk tuanx chieng chiu, cjeng njin qiex sjyoh lu.
+Chjyn piung tuaih cheng tryungx, brak njit lak liang cju.
+Dad mak myo pieng criox, giung pen iux khrak ju.
+Byan zieng zsix chiex sjyix, driang ngyanh hiangh nom liu.
+
+
+157. 
+
+Drio jah iux ghruai
+
+Chuai Do
+
+Deu-deh sam pra loh, kie ngye myanh lix sjin.
+Luanh sren zan syet jah, ko tong jih hiang njin.
+Ziemx jox kuot njuk yanx, tryenh qio dung buk chin.
+Nax khom cjengh phjeu bak, mieng njit syed ghrua sin.
+
+
+158. 
+
+Ko ngranh
+
+Chuai Do
+
+Kioix ghang kyoi saih zinx, nemh njex duk gha cji.
+Moh yox siang ho sjit, ghan dang jyuk ghrah drii.
+Cjox yon te qomh doh, kruan ngyat lrangx siang zsye.
+Myoih pjit byung cong cjak, ko pyoi ziih khax ngi.
+
+
+159. 
+
+Chjyn kiung qyanh
+
+Dox Syn-Ghak
+
+Caux biex zjen-qjyen ngoh, jyuk criang lim kiengh zjyung.
+Zjing qon pyot zaix mrauh, krauh chiep njak ye jyung.
+Piung nuanx teux sjeng suaih, njit kau hrua qiengx dryung.
+Nen-nen yat khe nriox, siang qik chaix byo jyung.
+
+
+160. 
+
+Cjang dai jah si
+
+Yoi Criang
+
+Chieng srit qyanh jeu jah, njeux ghen piung yox qai.
+Ko tong myon chriox kruk, zan ngyat ghrax cjang dai.
+Phyang chaux jix yon moh, koh njin zjyo myoih lai.
+Hiang sjo pyot khax keih, chiu ngranh iuh nom ghuai.
+
+
+161. 
+
+Zsim Liuk Ghung-Ziemx pyot ngyoh
+
+Song Keux-Njen
+
+Je kra syi tad kuak, jax kengh njip sang mra.
+Gionx cjyungh lie pen kiuk, chiu lai myoih driak hrua.
+Khux muon myo khuenx byad, jyuk khioh myonh se kra.
+Pauh daux sren triung khioh, kyoi lai muaix njit zsia.
+
+#Chit ngian lyt sji
+
+162. 
+
+Ghuang ghak lu
+
+Chuai Ghaux
+
+Siek njin jix zsjing ghuang ghak khioh, chiex diih khung jo ghuang ghak lu.
+Ghuang ghak qjit khioh pyot biuk pyanx, brak yon chen caih khung ju ju.
+Zieng chjyen lek-lek Hanh-jang zjyoh, phyang chaux che-che qreng myox cju.
+Njit moh hiang kruan gha chjoh zjex, qen pua krung zjangx srix njin zriu.
+
+
+163. 
+
+Ghrang keng Ghruah-qim
+
+Chuai Ghaux
+
+Deu-ngeu thad Ghruah pyox Ghrem kieng, then nguad sam phyung siak pyot zjeng.
+Myox teh zsi zen yon jyuk sanh, sien njin cjangx zjangx yox chrio zieng.
+Gha sren pok cjimx Zin kruan hiemx, jek loh se lien hanh cjix bieng.
+Ciah myonh loh bang mjeng liih khrak, gha njo chiex diih ghruk driang srieng.
+
+
+164. 
+
+Myangh Keh muon
+
+Cox Yengh
+
+Qen dai qjit khioh khrak sim kieng, kra kox hyan-hyan hanh ciang jyeng.
+Myanh lix ghan kuang srieng ciek syet, sam pen zjoh srik dungx ngye cieng.
+Sra driang phyung huax chim gho ngyat, haix buanh yon sren qyungx Keh zjeng.
+Sjeuh sieux syi pyoi du pit lih, luonh kung ghruan jyuk chiengx driang qjeng.
+
+
+165. 
+
+Kiux njit tong myangh sien dai drieng Liu mieng pyox
+
+Chuai Zjoh
+
+Hanh myon ghuang teh iux kau dai, chiex njit tong lim zjoh srik khai.
+Sam cinh yon sren krai pok hiangh, njiih ling piung yox ziih tung lai.
+Kruan muon liengh jynx zjyi nong sjik, gha zjangx sien qung khioh pyot ghuai.
+Chiax jyuk gionx zsim Brang drak caix, dau njen gyungh cyih kiuk hrua puai.
+
+
+166. 
+
+Sung Ngyoih Myanh cji kieng
+
+Lix Gioi
+
+Trieu myon ju cix chjangh lie ka, zak jah myoi sriang chrio doh gha.
+Ghung ngranh pyot khom zriu lix thengh, yon sren hyangh zjex khrak triung kua.
+Kruan zjeng zjoh srik chuai ghan gionx, ngioh qyanx trim sjeng hiangh myanx ta.
+Mak zjex Driang-qan ghrang lak chjoh, khung liengh syed ngyat jeh cha-da.
+
+
+167. 
+
+Tong Kim-ling piungh ghuang dai
+
+Lix Brak
+
+Biungh ghuang dai zjangx biungh ghuang ju, biungh khioh dai khung krung ziih liu.
+Ngo kiung hrua chaux mrai qy kengh, Cinh daih qioi kuan zjeng kox khiu.
+Sam sren puanh lak cheng then nguad, njiih sjyix triung pyon brak loh cju.
+Cungx yeh biu yon nong pjed njit, Driang-qan pyot kenh srix njin zriu
+
+
+168. 
+
+Sungh Lix sjeuh pyox piemx ghrep triung Yang sjeuh pyox piemx Driang-sra
+
+Kau sjek
+
+Cia kyon chiex biet qih gha njo, tryoh mrax ghram puai myonh trek kio.
+Myo ghrep de yan sruk ghang lyih, ghrang jang kyoi ngranh kioix pyung sjo.
+Cheng piung krung zjangx chiu byam yanx, brak teh zjeng pen kox muk srio.
+Sjengh daih cik kim ta yox loh, zamh zji pyon sjux mak driu-drio.
+
+
+169. 
+
+Ghuah Krax Cjiih sjah njin caux drieu dad mieng kiung cji cak
+
+Zrim Srim
+
+Ke mieng ciex mrak zjoh kuang ghan, qreng tryenh ghuang cju chjyn srik lan.
+Kim khyat heux cjyung khai myanh ghox, ngyuk krai sien driangh qyungx chen kuan.
+Hrua ngieng kiamh buaih seng chrio lak, liux phyot cieng gi loh myoih kan.
+Duk iux biung ghuang drie zjangx khrak, jang chjyn qjit khyuk ghuah krai nan.
+
+
+170. 
+
+Ghuah Krax Cjiih sjah njin caux drieu dad mieng kiung cji cak
+
+Yang Jyi
+
+Krungh crek ke njin pauh heux sjeng, zjangh qioi pyang cinh chyih yon giu.
+Kiux then chjangh ghap khai kiung denh, myanh kuok qioi kuan praih mienx liu.
+Njit srik zai lim sien cjangx dungx, hiang qen jyuk bangh kuonx lyung biu.
+Drieu brex syo zai ngox srik cjeuh, buaih sjeng kyoi tauh biungh drie du.
+
+
+171. 
+
+Byungx ghua sjengh cjed zyung Bung-lai hiangh hing khiengh kak daux triung liu chjyn yox triung chjyn myangh cji cak qingh cjed
+
+Yang Jyi
+
+Yoih sjyix ziih `qjyeng Zin saih khyuk, ghuang sren giuh njeux Hanh kiung zsia.
+Luan jo ghuengx chjyt chen muon liux, kak daux ghuai khan zjangx qyanx hrua.
+Yon lix teh zjeng srung biungh khyat, yox triung chjyn zjyoh myanh njin kra.
+Yeh zsjing jang khioih ghrang zji liengh, pyot zjex zjin ju nguanh myot ghrua.
+
+
+172.
+
+ Ciek yox myangx chjyen criang cak
+
+Yang Jyi
+
+Ciek yox khung lim qen huax drii, cjing le chjye sjox sjangh tung cri.
+Mak-mak sjyix den pyoi brak loh, qim-qim ghrah muk tryenh ghuang lie.
+Sren triung zsip ziengx kuan trieu kionx, zsyung ghrax chieng crai cjet koh gjyi.
+Jax laux jox njin creng zsiek brex, haix qu gha zrih krangh siang ngi.
+
+
+173. 
+
+Zongh Kuak kip zrih
+
+Yang Jyi
+
+Dungh muon kau kak qaih jo hyoi, dau lix qim-qim liux sioh pyoi.
+Kimh lix srio cjyung kuan sjah myanx, sriengx triung de teux lih njin hioi.
+Zjin jeu ngyuk buaih chyo kim denh, zsiek byungx then sjo praih suax yoi.
+Giang jyuk zyung kyon myo nah laux, ciang qjin nguah biengh krex drieu qioi.
+
+
+174. 
+
+Zjyuk siangh
+
+Dox Pyox
+
+Zjing siangh zsi dang gha chjoh zsim, kimx kuan zjeng nguad prak srim-srim.
+Qiengh krai piek chaux ziih chjyn srik, krek jep ghuang lie khung haux qim.
+Sam koh bjin byan then ghrax keh, liangx drieu khai ceh laux zjin sim.
+Chjyt srii myoih ziep sjin sen siix, driang srix qieng iung lyih muanx kim.
+
+
+175. 
+
+Khrak cjiih
+
+Dox Pyox
+
+Sjah nom sjah pok krai chjyn sjyix, danx kenh gyon qu njit-njit lai.
+Hrua kengh pyot zong jyen khrak saux, bung muon kim sjix yeh kyon khai.
+Buan suon zjix yanx myo kem myoih, cuon ciux kra bin cjex giuh phuai.
+Khongx jox lin qung siang tuaih qimx, krek lie ho chyox zinx jo puai.
+
+
+176. 
+
+Jax myangh
+
+Dox Pyox
+
+Se sren brak syet sam zjeng sjyoh, nom phox chieng krung myanh lix gieu.
+Haix nuaih piung drin cjo dex krek, then ngre theh lyih qjit njin jeu.
+Jyi ciang drii moh kyung ta biengh, myoih iux kuen qai top sjengh drieu.
+Khruah mrax chjyt krau zji gik miuk, pyot khom njin zrih njit seu-deu.
+
+
+177. 
+
+Myon kuan kyon sju gha nom gha pok
+
+Dox Pyox
+
+Kiamh nguad huot dryen sju Keh pok, chrio myon theh lyih muanx qioi zjang.
+Khiak khan che cix zriu gha zaix, muanh kyenx sji sjo hix jyuk gyang.
+Brak njit pyangh ka syo cyungh ciux, cheng chjyn cak buanx haux ghruan hiang.
+Cik zyung Pra ghrep chjyen myo ghrep, bjenh ghrah Siang jang hiangh Lak jang.
+
+
+178. 
+
+Tong kau
+
+Dox Pyox
+
+Piung kip then kau yan seuh qai, cjox chieng sra brak teux pyoi ghuai.
+Myo pen lak muk seu-seu ghrah, pyot zinx driang Krung kuonx-kuonx lai.
+Myanh lix pii chiu zjang cak khrak, prak nen ta biengh duk tong dai.
+Kren nan khox ghonh byan sriang pjinh, laux-taux sin deng druk ciux puai.
+
+
+179. 
+
+Tong lu
+
+Dox Pyox
+
+Hrua gionh kau lu sjang khrak sim, myanh pyang ta nanh chiex tong lim.
+Kimx krung chjyn srik lai then diih, ngyuk lyix biu yon pienh kox kim.
+Pok gik drieu deng cjung pyot kaix, se sren kuh dauh mak siang chim.
+Khax len ghux cjyox ghruan zsi mieuh, njit moh leu ye liang pyox ngim.
+
+
+180. 
+
+Siuk pyox
+
+Dox Pyox
+
+Chieng chiu mak pyox ciengx ngo ghan, duk siuk krung zjeng lap giox zan.
+Yengx jah kruk sjeng pii ziih ngiox, triung deng ngyat srik hauh zjyi khan.
+Piung drin njimx-njemx qim sjo duanx, kruan saih seu-deu ghrang loh nan.
+Jix njinx leng-pheng zjip nen zrih, giang je se sik qjit cje qan.
+
+
+181. 
+
+Kak jah 
+
+Dox Pyox
+
+Syed moh qim jang chuai tuanx kiengx, then ngre sriang syet ceh ghan sieu.
+Ngox krang kox kruk sjeng pii criangh, sam ghrep seng gha qiengx dungx jeu.
+Jax khuk kioix kra khai cjenh byat, jii ka sruk chjoh khix ngio zieu.
+Nguah lyung jak mrax cjung ghuang thox, njin zrih qim sjo muanh zek leu.
+
+
+182. 
+
+Yengh ghruai kox ciek
+
+Dox Pyox
+
+Cje lie tung pok piung drin cied, phjeu bak se nom then diih kren.
+Sam ghrep lu dai qiem njit ngyat, ngox khe qioi biuk gyungh yon sren.
+Kiat gho zrih cjyox cjung myo lad, zsi khrak qai zji chiax myoih ghruan.
+Jyox sinh bieng srieng cuad seu srit, moh nen sji pyoh dungx krung kruan.
+
+
+183. 
+
+Yengh ghruai kox ciek
+
+Dox Pyox
+
+Jeu lak sjim trie Suungh Ngyuk pii, piung liu njyo ngrax jek ngo srii.
+Thriangh myangh chen chiu qjit srex lyih, seu-deu jih daih pyot dung zji.
+Krung sren koh drak khung myon caux, yon yox huang dai khioix miungh si.
+Cuad zjex Chriox kiung kyo mjinx mjet, cju njin cjiix temx tauh kim ngi.
+
+
+184. 
+
+Yengh ghruai kox ciek
+
+Dox Pyox
+
+Gyon sren myanh hak phyoh kieng muon, srieng triangx mieng phyoi zjangh iux chuon.
+Qjit khioh ciex dai lien sruk mak, duk liu cheng tryungx hiangh ghuang huon.
+Ghrueh do sriengx sjik chjyn piung mjenh, ghruan buaih khung kyoi ngyat jah ghuon.
+Chen caix bjii bra cak gho ngiox, pyon mieng qyanh ghonh khyuk triung luon.
+
+
+185. 
+
+Yengh ghruai kox ciek
+
+Dox Pyox
+
+Zjyuk cjyox khjye Ngo ghrengx sam ghrep, pong nen jek zaix yengx qan kiung.
+Chyih ghrua siangx zsiangx khung sren lix, ngyuk denh hio myo jax zsih triung.
+Kox mieuh srem zsyung zrau sjyix ghak, syed zji biuk lap cux chuon qung.
+Myox ghu zsi quk zjang lin gionx, qjit thex kyon zjin cied zsix dung.
+
+
+186.
+
+Yengh ghruai kox ciek
+
+Dox Pyox
+
+Cjo-kat dad mjeng zjye yox driuh, cuung zjin jyi zsiangx siuk chieng kau.
+Sam pyot kat kioh qyo driu chrek, myanh kox yon sieu qjit yox mau.
+Prak driungh cji kren kenh Qjii Liox, cjiix hyoi njak dengh sjit Seu Zau.
+Yonh je Hanh zoh cjung nan biuk, cjih kuet sjin ciem kyon myoh lau.
+
+
+187. 
+
+Krung cju dryung biet Siet liuk Liux pret njiih yen nguad
+
+Liu Driang-Khieng
+
+Srieng ngre khioix leuh zjing qiu cjeuh, sjed zrih khung trie ghruk cyih ka.
+Krung zjangx ngyat mieng gho ngranh kuah, Ghruai nom muk lak Chriox sren ta.
+Kieh sjin chiax hix Chang cju gionx, koh qiengx myo njo brak pyat gha.
+Kim njit lyung-cjyung njin gyungh laux, kyih kyon ju khjenx zjinh piung pua.
+
+
+188. 
+
+Driang-sra kua Krax Ngieh drak
+
+Liu Driang-Khieng
+
+Sam nen trek ghruanh chiex se drii, myanh kox jyi liu Chriox khrak pii.
+Chiu chaux duk zsim njin khioh ghux, ghan lim khung kenh njit zsia zji.
+Hanh Myon iux daux qon ju bak, Siang sjyix myo zieng teuh khioix trie.
+Zek-zek krung sren jeu lak chjoh, len kyon gha zrih tauh then ngre.
+
+
+189. 
+
+Ziih ghrax khux cjiih qreng myox cju myangh Ngruk-jang kieh Ngyan triung zjing
+
+Liu Driang-Khieng
+
+Theng cju myo langh biuh myo qen, Chriox khrak siang si qjek mjeux njen.
+Hanh khux zsiek jang zsia doh teux, Dungh-deng chiu sjyix yanx lien then.
+Ko zjeng puaih liengx ghan chjye kruk, duk zjyoh lim krung jah bak zsjyen.
+Krax Ngieh zjangx sjo qiu Hanh sjit, Driang-sra trek khioh kox kim len.
+
+
+190. 
+
+Zongh khyat ghrax Buai sjah njin
+
+Zien Khix
+
+Njiih ngyat ghuang lie pyoi zjangx lim, chjyn zjeng ciex kimh heux qim-qim.
+Driang lak cjyung sjeng hrua nguad zinx, lyung drie liux srik yox triung sjim.
+Jang ghua pyot sanh giung do ghonh, sieu hanh zjang ghuen phyungx njit sim.
+Hianh pyoh zjip nen ju myoih ngyoh, siu ciang brak pyat tuaih ghrua crim.
+
+
+191. 
+
+Kieh Lix Tam Ngyan Sek
+
+Yoi Qingh-Myot
+
+Khioh nen hrua lix byung kyon biet, kim njit hrua khai iuh qjit nen.
+Sjed zrih mang-mang nan ziih leuh, chjyn zriu qremx-qremx duk zjeng men.
+Sjin ta zit biengh si den lix, qip iux liu myang kyih byungh zien.
+Myon daux jyuk lai siang myonh sinh, se lu myangh ngyat kioix ghuai yen.
+
+
+192. 
+
+Dung de sien ju kuanh
+
+Ghan Ghrueng
+
+Sien dai chrio kenh ngox zjeng lu, piung myot che-che siuk yox sju.
+Sren srik jeu lien Zin zjyoh myanx, trim sjeng gionx pauh Hanh kiung chiu.
+Srio zsyung qiengx lak khung dan ziengx, seh chaux hiang srieng sieux dungh qy.
+Gha jyungh piet zsim pyang nguad khioh, njin kren jek ziih iux tan khiu.
+
+
+193. 
+
+Chjyn Si
+
+Ghuang-Pyox Njemx
+
+Qreng de qenh ngiox pauh sin nen, mrax qip lyung tuai loh kioix chen.
+Kra dryoh zong zjeng lin Hanh qyanx, sim zsye mieng ngyat tauh gho then.
+Kioi triung kimx zih luonh driang ghonh, lu zjangx hrua cje sieuh duk men.
+Yeh myonh ngyan njung duh chja gieh, gha zji pyanx bad lok Qen njen.
+
+
+194. 
+
+Myanx chiih Ngak cju
+
+Lo Lyn
+
+Yon khai yanx ghenh Hanh jang zjeng, ju zjex ko byam qjit njit drieng.
+Kox khrak triuh men trie langh ziengx, cju njin jah ngiox kruk drieu srieng.
+Sam Siang zriu pjinh byung chiu srik, myanh lix kyoi sim tuaih ngyat mieng.
+Giuh ngiap jix zsye cjeng cjenh zinx, krangh khom krung zjangx kox be sjeng.
+
+
+195. 
+
+Tong Liux cju zjeng lu kieh Cjang Theng Pyung Lien siih cju chieh srix
+
+Liu Cuung Ngyan
+
+Zjeng zjangx kau lu ciep dad huang, haix then zriu si cjengh mang-mang.
+Kieng piung luanh cjemx byo jyung sjyix, mit yox zsia chim beh-leh ziang.
+Liengx zjyoh dryung cja chen lix miuk, krung liu khyuk zsix kiux ghuai driang.
+Gyungh lai prak yat myon sjin diih, ju ziih qim sjo dried qjit hiang.
+
+
+196. 
+
+Se saih sren ghruai kox
+
+Liu Yox-Sek
+
+Yang Synh lu zsjyen ghrah Qjek cju, Kim ling yang khioih qremx njen sju.
+Chen zsim thet suax drim krung tex, qjit phenh ghrung phyan chjyt zjek du.
+Njin sjed kioix ghuai sjang yangx zrih, sren gheng qioi giuh cjimx ghan liu.
+Zyung kim siih haix ye kra njit, koh lyix seu-seu lo dek chiu.
+
+
+197. 
+
+Khjenx pii ghruai
+
+Ngyan Cjinx
+
+Zsiah kung cuad sieux phjen len nriox, ziih krah giem lu prak zrih kruai.
+Koh ngax myo qioi sriu zsinh khep, ne tha koh ciux bret kim chre.
+Jax srio chjung zjenh kam zjang huak, lak jep then sin ngiangx kox ghruai.
+Kim njit byungh zien kua zjip myanh, jox kyon jyeng denh biuk jyeng crai.
+
+
+198. 
+
+Khjenx pii ghruai
+
+Ngyan Cjinx
+
+Siek njit hieh ngian sjin ghux qih, kim trieu to tauh ngrenx zen lai.
+Qioi zjang jix sjeh ghrang khan zinx, cjim sienh ju zuon myoih njinx khai.
+Zjangh siangx giuh zieng len bjex buk, jax zong qjin miungh sungh zien zai.
+Zjeng trie chiex ghonh njin njin iux, bin zienh pyo che prak zrih qai.
+
+
+199. 
+
+Khjenx pii ghruai
+
+Ngyan Cjinx
+
+Ghen zuax pii kyon jek ziih pii, prak nen ta zjex kioix ta zji.
+Dongh Ju myo cix zsim trie miengh, Phuan Ngruk dauh myang ju phyoih zsi.
+Dung ghuet qeux meng gha sriox myangh, tha srieng jyen ghuad krangh nan gi.
+Jyi ciang cjung jah driang khai ngrenx, pauh top bieng srieng myoih trienx mii.
+
+
+200. 
+
+Ziih Gha nom keng luanh Kruan nuaih criox kioi hyeng dex lie sanh kak zaix qjit chjoh qjin myangh ngyat iux komx leu sjo sriox ghruai kieh zjangx Biu liang dad hyeng Qio ziem chit hyeng Qo krung zjip ngox hyeng kem zsjiih Byo lie gip Ghrax kue dex muaih
+
+Brak Kio-Jeh
+
+Zji nanh nen huang sjed ngiap khung, dex hyeng kie liox kak se tung.
+Den yan leu lak kan kua ghux, kuot njuk liu-lie daux loh triung.
+Teuh qiengx pyon ye chen lix ngranh, zsi kon sanh cak kiux chiu bung.
+Gyungh khan mieng ngyat qing zjye lyih, qjit jah hiang sim ngox chjoh dung.
+
+
+201. 
+
+Kimx srit
+
+Lix Sjang-Qionx
+
+Kimx srit myo tuan ngox zjip ghen, qjit ghen qjit dryox si ghrua nen.
+Criang srieng heux miungh me gho dep, myangh teh chjyn sim thak dox kuen.
+Chang haix ngyat mieng cjyox iux lyih, lam den njit nuanx ngyuk srieng qen.
+Chiex zieng khax daix zjeng tryi qik, cjex zjex tang zji jix myangx njen.
+
+
+202. 
+
+Myo de
+
+Lix Sjang-Qionx
+
+Zak jah seng zjin zak jah piung, ghrueh lu se buanh kueh dang tung.
+Sjin myo chaix biungh srung pyoi jik, sim iux leng se qjit temx thung.
+Krek zuah sungh ku chjyn ciux nuan, pyon zau zsjek phiuh lap tong ghung.
+Cia jo thengh kox qingh kuan khioh, cux mrax lan dai lyih tryenx bung.
+
+
+203. 
+
+Zsye kiung
+
+Lix Sjang-Qionx
+
+Ciex zyen kiung denh suax qen ghra, jyuk chyox myo zjeng cak teh kra.
+Ngyuk siex pyot jyen kyoi njit kruk, kimx byam qing zjex tauh then ngre.
+Qio kim byox chaux myo ghueng huax, cjung kox zjye jang iux moh qra.
+Diih ghrax njak byung Drin ghux cjyox, khioix ngie dryung myonh ghux deng hrua.
+
+
+204. 
+
+Myo de
+
+Lix Sjang-Qionx
+
+Lai zjex khung ngian khioh zyet cyung, ngyat zsia lu zjangx ngox krang cjyung.
+Miungh ye yanx biet de nan huanh, sjo biex chuai zjeng mok myoih nryung.
+Lap cjeuh puanh lung kim byoih chyih, zsjek hyon myoi doh siuh byo jyung.
+Liu lang jix ghonh bung sren yanx, krangh krek bung sren qjit myanh dryung.
+
+Sop sop tung piung seh yox lai, byo jyung dang nguad iux khjeng luai.
+Kim zjem nget ??? sjeu hiang njip, ngyuk hox khen si kip ciengx ghuai.
+Krax zjex khjye liem ghan jyenh sjeuh, Mjit phyoi liux cjimx Ngyoih yang zai.
+Chjyn sim mak gyungh hrua creng pyat, qjit chuonh siang si qjit chuonh huai.
+
+
+205. 
+
+Driu pit jek
+
+Lix Sjang-Qionx
+
+Ngio teux ju ngi qyoih krenx sjo, piung yon zjang yeh ghoh drio sio.
+Do liengh zjangx ciangh hyoi zsjin pit, cjung kenh ghrung yang cuq dryen kio.
+Kuanx Ngruk iux zai cjim pyot themx, Kruan Triang myo miengh jyuk gha njo.
+Tha nen kimx lix keng zsi mieuh, liang pyox ngim zjeng ghonh iux jo.
+
+
+206. Myo de
+
+Lix Sjang-Qionx
+
+Siang kenh zji nan biet jek nan, tung piung myo lik prak hrua zan.
+Chjyn zom tauh siix si pyang zinx, lap giox zjeng huai lyih sjix kan.
+Heux kiengh danx zriu yon pjinh kaix, jah ngim qing kruk ngyat kuang ghan.
+Bung sren chiex khioh myo ta loh, cheng teux qion-gion yeh thomh khan.
+
+
+207. 
+
+Chjyn yox
+
+Lix Sjang-Qionx
+
+Thriangh nguah sin chjyn brak krep qioi, brak muon leu(lek?)-lak qih ta yoi.
+Ghung lu krek yox siang myang lrangx, cjyo bak phjeu tong duk ziih kyoi.
+Yanx loh qing pii chjyn qyanx myanx, zan sieu ju tok miungh qioi-hioi.
+Ngyuk tang krem lex gha ju dat, myanh lix yon la qjit ngranh pyoi.
+
+
+208. 
+
+Myo de
+
+Lix Sjang-Qionx
+
+Biungh myoix hiang la bak kioix dryung, piek myon yen tengx jah sjim byung.
+Sjenh zai ngyat phrak siu nan qiemx, chja cux luai sjeng ngiox myoih thung.
+Zong zjex zek-mak kim zsinh qomh, duanx (?) myo sieu sik zjek liu ghung.
+Pran cjyi cjex gheh zjye jang nganh, gha chjoh se nom daix haux piung.
+
+Dryung yi sjim ghrah mak zriu dang, nguah ghux chieng sieu seh-seh driang.
+Zsjin nriox srieng ngre ngyan zjex miungh, sieux ko kio chjoh puonx myo lang.
+Piung pua pyot sinh ling cje njak, ngyat loh zjyi krauh kueh jep hiang.
+Drik daux siang si leux myo jek, myoih phyang thriu-thriangh zjex chieng gyang.
+
+
+209. 
+
+Liih cju nom doh
+
+Quon Deng-Yn
+
+Damx njen khung sjyix tad zsia hyoi, khyuk taux chang-mang ciep chyih myoi.
+Pua zjangx mrax se khan drauh khioh, liux pen njin hiat daix zsjyen kyoi.
+Sruk zung sra chaux gyon qu sanh, myanh khjyengx krung den qjit loh pyoi.
+Zjyi krex(?) zsjing cju zsim Byamx Lex, ngox gho qen sjyix duk myang kioi.
+
+
+210. 
+
+So Myox mieuh
+
+Quon Deng-Yn
+
+So Myox ghuon sieu hanh srih zen, kox zsi kau zjyoh liangx mang njen.
+Yon pen ngranh duanx gho then ngyat, lyungx zjangx jang kyoi saih chaux qen.
+Ghuai njit lu dai pyoi krap triangh, khioh zji kuan kiamh zjex teng nen.
+Muh ling pyot kenh pyung ghu qjinh, khung hiangh chiu pua khuk zjed chjyen.
+
+
+211. 
+
+Kiung zsi
+
+Siet Byung
+
+Zjip njiih lu triung zinx heux criang, myangh sien lu zjangx myangh kyon yang.
+Suax ghram kim sjuh lien ghruan lrangx, sjyix tek dung lyung triuh luh driang.
+Yon keh brex criang ghruan tuaih kiengh, la qioi jyuk ghuanh krangh them hiang.
+Jeu khjye cjengh denh liem khai chjoh, bau khoh kiung njin saux ngioh zriang.
+
+
+212. 
+
+Bin nriox
+
+Zin Thau-Ngyuk
+
+Bung muon myoih sjik khiex la hiang, ngix thak liang muai jek ziih sjang.
+Zjyi qaih piung liu kau krak deuh, gyungh len zji sjed giemx srio criang.
+Kamx ciang zjip cjiix khrua cjim khraux, pyot prax srung mii tuh ghrueh driang.
+Khox ghonh nen nen qrep kim sienh, yeh tha njin cak krah qioi zjang.
+
+#Ngruk pyox
+
+213. Duk pyot kenh
+
+Sjimx Chjyen-Gi
+
+Lo kra sieux biux qyot kim dang, haix qenh srung se daih-muaih liang.
+Kiux ngyat ghan trim chuai ghrah jep, zjip nen cjeng sjyoh qik Leu-jang.
+Brak lang gha pok qim sjo duanx, tan biungh zjeng nom chiu jah driang.
+Zjyi trie ghom zriu duk pyot kenh, srix chiep mieng ngyat cjeuh liu ghuang.
+
+#Ngox ngian zyet kyoh
+
+214. 
+
+Luk zrad
+
+Yang Jyi
+
+Khung sren pyot kenh njin, danx myon njin ngiox hiangx.
+Pyanx qiengx njip sjim lim, biuk cjeuh cheng dai zjangx.
+
+
+215. 
+
+Triuk lix kuanh
+
+Yang Jyi
+
+Duk zuax qy ghuang lix, dan gim biuk driang seuh.
+Sjim lim njin pyot trie, mieng ngyat lai siang cjeuh.
+
+
+216. 
+
+Sungh biet
+
+Yang Jyi
+
+Sren triung siang sungh brex, njit moh qiemx zre pyoi.
+Chjyn chaux nen nen lyuk, yang suon kyoi pyot pyoi.
+
+
+217. 
+
+Siang si
+
+Yang Jyi
+
+Ghung duh srieng nom kuok, chjyn lai pyat kioix cje.
+Ngyanh kyon ta chaix ghet, chiex myot cuad siang si.
+
+
+218. 
+
+Zop sji
+
+Yang Jyi
+
+Kyon ziih koh hiang lai, qing trie koh hiang zrih.
+Lai njit khiex chrung zen, ghan muai driak hrua myoi.
+
+
+219. 
+
+Sungh Chuai kiux
+
+Buai Dek
+
+Kyoi sren sjim chienx khioh, syo zinx khiu hak miix.
+Mak ghruk Myox-ling njin, zamh ju dau ngyan lix.
+
+
+220. 
+
+Cjung-nom myangh jo syet
+
+Cox Yengh
+
+Cjung-nom qim liengx siuh, ciek syet biu yon tuan.
+Lim pieux mieng ceh srik, zjeng triung cong moh ghan.
+
+
+221. 
+
+Siuk Kianh-tok krung
+
+Mrangh Ghaux-Njen
+
+Je cju bak qen cjox, njit moh khrak zriu sin.
+Jax khuangh then te zjyoh, krung chieng ngyat gionh njin.
+
+
+222. 
+
+Chjyn heux
+
+Mrangh Ghaux-Njen
+
+Chjyn men pyot kruk heux, chjoh chjoh myon de teux.
+Jah lai piung yox sjeng, hrua lak trie ta sjeux.
+
+
+223. 
+
+Jah si
+
+Lix brak
+
+Zriang zen mieng ngyat kuang, ngi zjex diih zjangx sriang.
+Kiox du myangh mieng ngyat, te du si koh hiang.
+
+
+224. 
+
+Qyanh zieng
+
+Lix brak
+
+Miix njin kyenx cjyo liem, sjim zuax bjin nga mii.
+Danx kenh lyih ghon sjip, pyot trie sim ghonh zjyi.
+
+
+225. 
+
+Pret drinh do
+
+Dox Pyox
+
+Kung kad sam pyon kuok, mjeng zjeng pret drinh do.
+Krung liu zjek pyot tryenx, jyi ghonh sjit thon ngo.
+
+
+226. 
+
+Tong kuanh ciak lu
+
+Yang Cji-Huanh
+
+Brak njit qioi sren zinx, ghuang gha njip haix liu.
+Jyuk giung chen lix miuk, krangh zjangx qjit zong lu.
+
+
+227. 
+
+Sungh Leng Driet
+
+Liu Driang-Khieng
+
+Chang-chang triuk lim zsih, qeux-qeux cjyung sjeng myanx.
+Ghax lip tad zsia jang, cheng sren duk kyoi yanx.
+
+
+228. 
+
+Dan gim
+
+Liu Driang-Khieng
+
+Leng-leng chjit ghen zjangx, ziengx theng zsyung piung ghan.
+Kox deuh syi ziih qaih, kim njin ta pyot dan.
+
+
+229. 
+
+Sungh zjangx njin
+
+Liu Driang-Khieng
+
+Ko yon ciang jax ghak, khioix hiangh njin kren dryoh.
+Mak mrex quuk cju sren, zji njin jix trie chjoh.
+
+
+230. 
+
+Chiu jah kieh Khiu yen nguad
+
+Yoi Qingh-Myot
+
+Ghruai kyon zjyuk chiu jah, sanh boh yengh liang then.
+Khung sren zsyung cix lak, qy njin qing myoih men.
+
+
+231. 
+
+Theng creng
+
+Lix Tuan
+
+Mieng creng kim syuk dryox, soh sjux ngyuk byang zen.
+Jyuk tok Cju lang koh, zji zji ngoh phyot ghen.
+
+
+232. 
+
+Sin krah nriang
+
+Yang Kianh
+
+Sam njit njip dryo ghrax, sex sjux cak krang thang.
+Myoih qom ko zsjik siengh, sen khjenx sieux ko zjang.
+
+
+233. 
+
+Ngyuk dai thex
+
+Gyen Tok-Jo
+
+Zak jah gyon tad krex, kim trieu hix cix pyoi.
+Jyen ghrua pyot khax khjiih, mak zjex kaux trim kyoi.
+
+
+234. 
+
+Krung Syet
+
+Liux Cuung-Ngyan
+
+Chen sren teux pyoi zyet, myanh kengh njin cyung mjet.
+Ko cju sua lip qung, duk teuh ghan krung syet.
+
+
+235. 
+
+Ghrang kiung
+
+Ngyan Cjinx
+
+Lek-lak kox ghrang kiung, kiung hrua zek-mak ghung.
+Brak du kiung nriox zaix, ghren zuax sjyet ghuen cuung.
+
+
+236. 
+
+Myonh Liu zjip kiux
+
+Brak Kio-Jeh
+
+Lyuk ngiex sin phuai ciux, ghung ne sieux huax lo.
+Myanx lai then jyuk syet, nong qimx qjit puai myo.
+
+
+237. 
+
+Gha muanx cix
+
+Triang Ghox
+
+Koh kuok sam chen lix, sjim kiung njiih zjip nen.
+Qjit sjeng gha muanx cix, srung lyih lak kyon zen.
+
+
+238. 
+
+Tong Lak ju ngyan
+
+Lix Sjang-Qionx
+
+Hiangh myanx qih pyot sjek, khyo chja tong kox ngyan.
+Zsiek jang myo ghrenx haux, cjex zjex gionx ghuang huon.
+
+
+239. 
+
+Zsim qionx cjax pyot ngyoh
+
+Krax Taux
+
+Zsyung ghrax myonh dung cix, ngian srii chaix jak khioh.
+Cjex zaix chiex sren triung, yon sjim pyot trie chjoh.
+
+
+240. 
+
+Doh Hanh krung
+
+Lix Bjin
+
+Liengx nguad qim sjo zyet, keng tuung biuh lip chjyn.
+Gionh hiang zieng krangh khiap, pyot kamx myonh lai njin.
+
+
+241. 
+
+Chjyn qyanh
+
+Kim Chjang-Zsiox
+
+T’rangx khix ghuang qreng nje, mak krauh cje zjangx de.
+De zji kieng chiep miungh, pyot tok tauh Leu se.
+
+
+242. 
+
+Ka-Sjo ka
+
+Se piix njin
+
+Pok tux chit seng kau, Ka-Sjo jah tad tau.
+Cjiih kim khjye miuk mrax, pyot kamx kuah Lim Thau.
+
+#Ngruk pyox
+
+243. 
+
+Driang kan ghrang
+
+Chuai Ghaux
+
+Kyon kra gha chjoh dryoh, chiep dryoh zaix ghruang dang.
+Deng zsjyen zam ciah myonh, ghuok khyungx zjex dung hiang.
+
+
+244. Driang kan ghrang
+
+Chuai Ghaux
+
+Kra lim Kiux Krung sjyix, lai khioh Kiux Krung crik.
+Dung zjex driang kan njin, srieng sieux pyot siang sjik.
+
+
+245. Ngyuk krai qyanh
+
+Lix Brak
+
+Ngyuk krai srieng brak loh, jah kiux chim la myat.
+Khiak ghrax sjyix cieng liem, leng-lung myangh chiu ngyat.
+
+
+246. Saih ghrax khyuk
+
+Lo Lyn
+
+Ziuh leng kim buk ko, qenh myoix siuh miu(?) gho.
+Duk lip jang sin liengh, chen jyeng gyungh qjit ho.
+
+Lim qom chaux kieng piung, ciang kyon jah jinx kiung.
+Bieng mieng zsim brak yox, muot zaix zjek long triung.
+
+Ngyat hok ngranh pyoi kau, zjen-yo jah duonx dau.
+Jyuk ciang khjeng gieh driuk, dad syet muanx kiung tau.
+
+Jax mak chjangx gjyeng jen, Khiang Njung ghah lau zsyen.
+Cyih ghuah kim krap myox, luai kox dungx sren chjyen.
+
+
+247. Krung nom khyuk
+
+Lix Jek
+
+Krah tok Gyo-dang krax, trieu trieu ngoh chiep gi.
+Caux trie drieu iux sinh, krah jox lungh drieu nje.
+
+#Chit ngian zyet kyoh
+
+248. 
+
+Ghuai hiang nguh sjo
+
+Ghah Trie-Cjang
+
+Sjeuh sieux lie kra laux dad ghuai, hiang qim myo kaix pjinh mau sryi.
+Nje dung siang kenh pyot siang sjik, sieuh myonh khrak zyung gha chjoh lai.
+
+
+249. 
+
+Dau hrua khe
+
+Triang Hyuk
+
+Qionx-qionx pyoi gieu krek jax qen, zjek kioi se buanh myonh ngio zsjyen.
+Dau hrua zinx njit zsjye liu sjyix, dungh zaix chieng khe gha chjoh pen.
+
+
+250. 
+
+Kiux ngyat kiux njit qik sren tung hyeng dex
+
+Yang Jyi
+
+Duk zaix jih hiang ye jih khrak, muaix byung kre cet baix si chin.
+Jeu trie hyeng dex tong kau chjoh, penh chrep zjyo-jyo sjeux qjit njin.
+
+
+251. 
+
+Byo-jyung lu sungh Sin Ziemx
+
+Yang Chjang-Leng
+
+Ghan yox lien krung jah njip ngo, bieng mieng sungh khrak chriox sren ko.
+Lak jang chjin iux njo siang myonh, qjit phenh ping sim zaix ngyuk gho.
+
+
+252. 
+
+Kue qyanh
+
+Yang Chjang-Leng
+
+Kue triung sjeuh biux pyot trie zriu, chjyn njit nging criang zjangx chyih lu.
+Huot kenh mrak du jang liux srik, huaix krauh pyo seh mek pyung ghu.
+
+
+253. 
+
+Chjyn kiung qyanh
+
+Yang Chjang-Leng
+
+Zak jah piung khai loh ciengx dau, myoih qiang zen denh ngyat lyn kau.
+Bieng jang ka myox sin zjing thryungx, liem nguad chjyn ghan sieh kimx bau.
+
+
+
+254. 
+
+Liang cju khyuk
+
+Yang Ghanh
+
+Bo dau miix ciux jah kuang puai, jyuk qimx bjii-bra mrax zjangx chuai.
+Cyih nguah sra driang kyon mak sieuh, kox lai cjeng cjenh kioix njin ghuai.
+
+
+255. 
+
+Sungh Mrangh Ghaux-Njen cji Kuangx ling
+
+Lix Brak
+
+Koh njin se zsi ghuang ghak lu, qen hrua sam ngyat ghrah Jang cju.
+Ko byam yanx qiengx piek khung zinx, jyi kenh driang krung then cied liu.
+
+
+256. 
+
+Ghrah Krung-ling
+
+Lix Brak
+
+Trieu zsi Brak-teh chaix yon kren, chen lix Krung-ling qjit njit ghruan.
+Liangx nganh yan sjeng de pyot dryoh, khjeng cju jix kuah myanh dryung sren.
+
+
+257. 
+
+Byung njip kieng srih
+
+Zrim Srim
+
+Koh yan tung myangh loh muan-muan, srung zsiuh lyung-cjyung lyih pyot kan.
+Mrax zjangx siang byung myo cjex pit, bing kyon dryen ngiox pauh bieng qan.
+
+
+258. 
+
+Krung nom byung Lix Kyi-Nen
+
+Dox Pyox
+
+Gje yang drak lix zsim zjang kenh, Chuai kiux dang zen kioix doh myon.
+Cjengh zjex krung nom haux piung kiengx, lak hrua zji cet iuh byung kyon.
+
+
+259. 
+
+Drio cju se kranh
+
+Yoi Qingh-Myot
+
+Duk len qy chaux kranh pen srieng, zjangx iux ghuang lie sjim zjyoh mieng.
+Chjyn drieu tad yox myanx lai kip, jax doh myo njin cju ziih ghruang.
+
+
+260. 
+
+Piung gieu jah bak
+
+Triang Keh
+
+Ngyat lak qo de sriang muanx then, krung piung ngio huax tuaih zriu men.
+Ko-so zjeng nguad ghan sren zsih, jah puanh cjyung sjeng tauh khrak zsjyen.
+
+
+261. 
+
+Ghan zsjik
+
+Ghan Ghrueng
+
+Chjyn zjeng myo chjoh pyot pyoi hrua, ghan zsjik tung piung ngioh liux zsia.
+Njit moh hanh kiung dryen lap cjyuk, khjeng qen sanh njip ngox ghu kra.
+
+
+262. 
+
+Ngyat jah
+
+Liu Pyang-Bieng
+
+Krang sjim ngyat srik puanh njin kra, pok tux lan kan nom tuq zsia.
+Kim jah phjen trie chjyn khioih nuanx, driung sjeng sin thuh lyuk chrung sra.
+
+
+263. 
+
+Chjyn qyanh
+
+Liu Pyang-Bieng
+
+Sra chrung njit lak ziemx ghuang huon, kim quk myo njin kenh lyih ghon.
+Zek mak khung deng chjyn jyuk myanx, lii hrua muanx diih pyot khai muon.
+
+
+264. 
+
+Cjeng njin qyanh
+
+Liux Triung-Jyung
+
+Syed syed kim gha biuh ngyuk kruan, trieu trieu mrax chrek jox tau ghruan.
+Sam chjyn brak syet kyoi cheng tryungx, myanh lix ghuang gha njeux hok sren.
+
+
+265. 
+
+Kiung zsi
+
+Koh Hyangh
+
+Ngyuk lu then puanh khix srieng ka, piung sungh kiung bjin sieuh ngiox ghua.
+Ngyat denh qiengx khai myon jah luh, sjyix cieng liem kyenx gionx chiu gha.
+
+
+266. 
+
+Jah zjangx zjux ghrung zjeng myon dek
+
+Lix Qjek
+
+Ghuai lak phyung zen sra zsix syet, zjux ghrung zjeng nguad ngyat njo sriang.
+Pyot trie gha chjoh chjye lo kuanx, qjit jah cjeng njin zinx myangh hiang.
+
+
+267. 
+
+Qo qioi ghrungh
+
+Liu Yox-Sek
+
+Cjyo ciak gieu pen jax chaux hrua, qo qioi ghrungh khux zsiek jang zsia.
+Giuh zji yang zsiah dang zen qenh, pyoi njip zsim zjang prak siengh kra.
+
+
+268. 
+
+Chjyn zsi
+
+Liu Yox-Sek
+
+Sin criang ngie mjenh ghrah cjyo lu, sjim suax chjyn kuang qjit yenh zriu.
+Ghrang tauh triung deng sryox hrua tuax, cheng-deng pyoi zjangx ngyuk sau du.
+
+
+269. 
+
+Kiung zsi
+
+Prak Kio-Jeh
+
+Lyih zinx la kin miungh pyot zjeng, jah sjim zen denh qanh ka sjeng.
+Ghung ngran myoih laux qon sen duanx, zsia qiex hyon lung zuax tauh mieng.
+
+
+270. 
+
+Zongh nuaih njin
+
+Triang Ghox
+
+Kimh muon kiung zjyoh ngyat ghon kua, miih ngrenx jyi khan siuk loh khua.
+Zsia bret ngyuk chre tong qiengx buanh, thek khai ghung jemx kiuh pyoi nga.
+
+
+271. 
+
+Zip leng dai
+
+Triang Ghox
+
+Njit kuang zsia cjeuh zip leng dai, ghung zjyoh hrua ngieng heux loh khai.
+Zak jah zjangh ghuang sin zjuh lyuk, thad cjin ghom sieuh njip liem lai.
+
+Kruak kuok pyo njin zjing cjyox qon, bieng mieng gie mrax njip kiung muon.
+Khiak ghem cjii pyonx qoh ngran srik, damx saux nga mii drieu cjiih cuon.
+
+
+272. 
+
+De kim ling doh
+
+Triang Ghox
+
+Kim ling cin doh sieux sren lu, qjit siuk ghrang njin ziih khax zriu.
+Drieu lak jah krung zsia ngyat lix, liangx sam seng huax zjex Krua cju.
+
+
+273. 
+
+Kiung triung zsi
+
+Cjyo Khiengh-Jo
+
+Zek-zek hrua zji peh yenh muon, miix njin siang bengx lip gjyeng hian.
+Ghom zieng jyuk sjyet kiung triung zrih, qreng myox zen du pyot kamx ngian.
+
+
+274. 
+
+Gionx sjih zjangx Triang sjyix bux
+
+Cjyo khiengh-Jo
+
+Dungh byang zak jah deng ghung cjyuk, daix heux dang zen praih giux ko.
+Criang brex te sjeng myonh pyo seh, ghrueh mii sjim chienx njip zji myo.
+
+
+275. 
+
+Ciang phyoh Ngo-hing tong Lak ju ngyan
+
+Dox Miuk
+
+Chieng zji iux myoih zjex myo nong, ghren qaih ko yon ziengx qaih song.
+Jyuk prax qjit hye krung haix khioh, lak ju ngyan zjangx myangh cjeu ling.
+
+
+276. 
+
+Chjek pek
+
+Dox Miuk
+
+Cjet kiek drim sra thet myoih sieu, ziih ciang mua sex njinh zen drieu.
+Tung piung pyot jox Cju lang bjenh, dung ciak chjyn sjim suax njiih Gieu.
+
+
+277. 
+
+Bak Zin ghruai
+
+Dox Miuk
+
+Qen lung ghan sjyix ngyat lung sra, jah bak Zin ghruai gionh ciux kra.
+Sjang nriox pyot trie myang kuok ghonh, krek krung ju chjangh ghux deng hrua.
+
+
+278. 
+
+Kieh Jang cju Ghan Chjak phuanh kuan
+
+Dox Miuk
+
+Cheng sren qionx-qionx sjyix deu-deu, chiu zinx krung nom chaux muk teu.
+Njiih zjip siih gieu mieng ngyat jah, ngyuk njin gha chjoh krauh chjye seu.
+
+
+279. 
+
+Khjenx ghruai
+
+Dox Miuk
+
+Lak-thak krung gho zaih ciux ghrang, chriox qjeu siem seh cjangx triung khjeng.
+Zjip nen qjit kruk Jang cju miungh, jeng tok cheng lu bak ghrengx mjeng.
+
+
+280. 
+
+Chiu zsiek
+
+Dox Miuk
+
+Ngin cjyuk chiu kuang lrangx ghrueh beng, khjeng la sieux sjenh phuk liu ghueng.
+Then kre jah srik liang njo sjyix, nguah khanh khen ngiu cjik nriox seng.
+
+
+281. 
+
+Zongh biet
+
+Dox Miuk
+
+Phjengh-phjengh neux-neux zjip sam jo, duh huh srau du njiih ngyat chrio.
+Chjyn piung zjip lix Jang cju loh, kyenx zjangx cjyo liem cungx pyot njo.
+
+Ta zieng khiak zsix cungx myo zieng, jyi kruk cuon zen sieuh pyot zjeng.
+Lap cjyuk iux sim ghruan siek biet, theh njin zjye lyih tauh then mieng.
+
+
+282. 
+
+Kim kuk yan
+
+Dox Miuk
+
+Byan ghrua zrih sanh driuk hiang drin, liu sjyix myo zieng chaux ziih chjyn.
+Njit moh tung piung qyanh de teux, lak hrua ju zsix duax lu njin.
+
+
+283. 
+
+Jah yox kieh pok
+
+Lix Sjang-Qionx
+
+Kyon myonh kyoi gi myoih iux gi, Pra sren jah yox triangh chiu drie.
+Gha tang gyungh cienx se chrung cjyuk, khiak ghruad Pra sren jah yox zji.
+
+
+284. 
+
+Kieh Leng-gho lang triung
+
+Lix Sjang-Qionx
+
+Siung yon zin zjyoh kiux lie kio, srung lix deu-deu qjit cjex sjo.
+Hiu myonh liang yan giuh pjin khrak, muh ling chiu yox biengh siang njo.
+
+
+285. 
+
+Ye iux
+
+Lix Sjang-Yonx
+
+Ye iux yon beng myo ghrenx kieu, biungh zjeng ghan zinx phrah chjyn sieu.
+Myo tuan krah tok kim kyi seh, ko biux hiang khim zrih caux drieu.
+
+
+286. 
+
+Zsye kiung
+
+Lix Sjang-Qionx
+
+Zsjing hingh nom ju pyot kraih ngiam, kiux dryung zjyi siengx kranh sjo ghrem.
+Chjyn piung kiox kuok zai kiung kimx, puanh cak cjangh ne puanh cak byam.
+
+
+287. 
+
+Jeu drie
+
+Lix Sjang-Qionx
+
+Jeu drie qa mux khiex chrung khai, ghuang triuk ka sjeng dungx diih qai.
+Pret cynh njit ghrang sam myanh lix, Miuk yang gha zrih pyot dryung lai.
+
+
+288. 
+
+Zjang nga
+
+Lix Sjang-Qionx
+
+Yon mux beng piung cjyuk qiengx sjim, driang gha ziemx lak heux seng drim.
+Zjang nga qing huaix thu leng jak, piek haix cheng then jah jah sim.
+
+
+289. 
+
+Krax srieng
+
+Lix Sjang-Qionx
+
+Syen sjit giu ghen phyangh driuk zjin, Krax srieng zai deuh krangh myo lyn.
+Khax len jah puanh hio zen zsiek, pyot myonh chang srieng myonh kyoix zsjin.
+
+
+290. 
+
+Jeu srit qyanh
+
+Qon Deng-Yn
+
+Ping demx ngin zriang miungh pyot zjeng, piek then njo sjyix jah yon khjeng.
+Ngranh sjeng yanx kuah Seu Siang khioh, zjip njiih lu triung ngyat ziih mieng.
+
+
+291. 
+
+Mrax nguai phua
+
+Driengh Den
+
+Ghuen cuung ghuai mrax Jang phyoi siix, yon yox nan myang njit ngyat sin.
+Cjung zjex sjengh mieng then cix zrih, kiengx jang kiung ciengx iuh gha njin.
+
+
+292. 
+
+Jix liang
+
+Ghan Qruk
+
+Piek lan kan nguad siuh liem zjye, srieng srik beng piung ghrueh cjet cje.
+Pret chjek lyung syo pyang kimx njyuk, jix liang then khioih myoih ghan zji.
+
+
+293. 
+
+Kim ling do
+
+Yoi Criang
+
+Krung yox phyoi-phyoi krung chaux ze, liuk drieu njo miungh teux khung de.
+Myo zieng cuad zjex dai zjeng liux, qioi giuh qen lung zjip lix te.
+
+
+294. 
+
+Lyungx se ghrang
+
+Drin Dau
+
+Zjed saux Hyung no pyot koh sjin, ngox chen teu kimx sangh gho drin.
+Khax len myo dengh gha pen kuot, ju zjex chjyn kue miungh lix njin.
+
+
+295. 
+
+Kieh njin
+
+Triang Piih
+
+Biet miungh qioi-qioi tauh zsiah kra, sieux lang ghuai ghop khyuk lan zsia.
+Ta zieng cjex iux chjyn deng ngyat, ju yeh lie njin cjeuh lak hrua.
+
+
+296. 
+
+Zop sji
+
+Myo mjeng zjex
+
+Gionx ghan zsjik yox chaux che-che, driak mrek mieu piung liux qiengh te.
+Tongx zjex iux kra kyoi myoih tok, dox kuen hiu hiangh njix pen de.
+
+#Ngruk pyox
+
+297. 
+
+Yoih zjeng khyuk
+
+Yang Jyi
+
+Yoih zjeng trieu yox qip khjeng drin, khrak sjah cheng cheng liux srik sin.
+Khyanh kyon krangh zinx qjit puai ciux, se chjyt jang kruan myo koh njin.
+
+
+298. 
+
+Chiu jah khyuk
+
+Yang Jyi
+
+Kueh phrak chrio srieng chiu loh myoi, khjeng la jix bak myoih krang qioi.
+Ngin creng jah kiux qion gion lungh, sim khiap khung byang pyot njinx kyoi.
+
+
+299. 
+
+Driang sinh qyanh
+
+Yang Chjang-Leng
+
+Byungx cjux bieng mieng kim denh khai, zamh ciang duan sjenh gyungh buai-ghuai.
+Ngyuk ngran pyot gip ghan qra srik, ju tad cjeu jang njit qiengx lai.
+
+
+300. 
+
+Chjyt saih
+
+Yang Chjang-Leng
+
+Zin zji mieng ngyat Hanh zji kruan, myanh lix driang cjeng njin myoih ghruan.
+Danx srix Lyung zjeng pyoi ciangh zaix, pyot krauh gho mrax doh Qim sren.
+
+
+301. 
+
+Chieng bieng deuh
+
+Lix Brak
+
+Yon siangx qioi zjang hrua siangx jyung, chjyn piung phyot ghramx loh ghrua nryung.
+Njak pyo gyon ngyuk sren du kenh, ghuad hiangh jeu dai ngyat ghrax byung.
+Qjit cje ghung jemh loh nging hiang, yon yox Myo sren qyangx duanx driang.
+Ciah myonh Hanh kiung zjyi tok zsix, khax len pyoi qenh qiex sin criang.
+Mjeng hrua khjyeng kuok liang siang huan, zjang tok kyon yang tad sieuh khan.
+Krex sjek chjyn piung myo ghrenx ghonh, drim hiang deng pok qiex lan kan.
+
+
+302. 
+
+Chjyt saih
+
+Yang Cji-Huanh
+
+Ghuang gha yanx zjangx brak yon kren, qjit phenh ko zjeng myanh njinh sren.
+Khiang dek gha syo qyanh jang liux, chjyn piung pyot doh ngyuk muon kruan.
+
+
+303. 
+
+Kim lyox qioi
+
+Dox Chiu-Nriang
+
+Khyanh kyon mak siek kim lyox qioi, kyanh kyon siek chyox sjeuh nen zji.
+Hrua khai khom cjet drik syo cjet, mak daix myo hrua khung cjet cje.
+
+
+
+
