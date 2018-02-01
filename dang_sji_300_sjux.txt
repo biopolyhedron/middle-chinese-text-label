@@ -1,7 +1,7 @@
-﻿#《唐詩三百首》中古漢語拼音（切韻音系）標音
+#《唐詩三百首》中古漢語拼音（切韻音系）標音
 #«300 Dang poems» labeled with Middle Chinese transliteration in Qie Yun phonology
 #encoding: utf-8
-#version: 20161130, corrected 20180130
+#version: 20161131, corrected 20180131
 #author: polyhedron （biopolyhedron@gmail.com 或新浪微博 @polyhedron ）
 #licence: cc by-nc-sa 3.0
 #版權歸作者所有，盈利性使用請與作者聯繫
@@ -2925,7 +2925,7 @@ Lix Sjang-Qionx
 
 Zak jah seng zjin zak jah piung, ghrueh lu se buanh kueh dang tung.
 Sjin myo chaix biungh srung pyoi jik, sim iux leng se qjit temx thung.
-Krek zuah sungh ku chjyn ciux nuan, pyon zau zsjek phiuh lap tong ghung.
+Krek zuah sungh ku chjyn ciux nuanx, pyon zau zsjek phiuk lap tong ghung.
 Cia jo thengh kox qingh kuan khioh, cux mrax lan dai lyih tryenx bung.
 
 
@@ -2948,12 +2948,12 @@ Myo de
 Lix Sjang-Qionx
 
 Lai zjex khung ngian khioh zyet cyung, ngyat zsia lu zjangx ngox krang cjyung.
-Miungh ye yanx biet de nan huanh, sjo biex chuai zjeng mok myoih nryung.
+Miungh ye yanx biet de nan huanh, sjo bieh chuai zjeng mok myoih nryung.
 Lap cjeuh puanh lung kim byoih chyih, zsjek hyon myoi doh siuh byo jyung.
 Liu lang jix ghonh bung sren yanx, krangh krek bung sren qjit myanh dryung.
 
 Sop sop tung piung seh yox lai, byo jyung dang nguad iux khjeng luai.
-Kim zjem nget ??? sjeu hiang njip, ngyuk hox khen si kip ciengx ghuai.
+Kim zjem nget suax sjeu hiang njip, ngyuk hox khen si kip ciengx ghuai.
 Krax zjex khjye liem ghan jyenh sjeuh, Mjit phyoi liux cjimx Ngyoih yang zai.
 Chjyn sim mak gyungh hrua creng pyat, qjit chuonh siang si qjit chuonh huai.
 
@@ -2965,8 +2965,8 @@ Driu pit jek
 Lix Sjang-Qionx
 
 Ngio teux ju ngi qyoih krenx sjo, piung yon zjang yeh ghoh drio sio.
-Do liengh zjangx ciangh hyoi zsjin pit, cjung kenh ghrung yang cuq dryen kio.
-Kuanx Ngruk iux zai cjim pyot themx, Kruan Triang myo miengh jyuk gha njo.
+Do liengh zjangx ciangh hyoi zsjin pit, cjung kenh ghrung yang cux tryenh kio.
+Kuanx Ngruk iux zai cjin pyot themx, Kruan Triang myo miengh jyuk gha njo.
 Tha nen kimx lix keng zsi mieuh, liang pyox ngim zjeng ghonh iux jo.
 
 
@@ -2989,7 +2989,7 @@ Lix Sjang-Qionx
 Thriangh nguah sin chjyn brak krep qioi, brak muon leu(lek?)-lak qih ta yoi.
 Ghung lu krek yox siang myang lrangx, cjyo bak phjeu tong duk ziih kyoi.
 Yanx loh qing pii chjyn qyanx myanx, zan sieu ju tok miungh qioi-hioi.
-Ngyuk tang krem lex gha ju dat, myanh lix yon la qjit ngranh pyoi.
+Ngyuk tang krem cret gha ju dat, myanh lix yon la qjit ngranh pyoi.
 
 
 208. 
@@ -3005,7 +3005,7 @@ Pran cjyi cjex gheh zjye jang nganh, gha chjoh se nom daix haux piung.
 
 Dryung yi sjim ghrah mak zriu dang, nguah ghux chieng sieu seh-seh driang.
 Zsjin nriox srieng ngre ngyan zjex miungh, sieux ko kio chjoh puonx myo lang.
-Piung pua pyot sinh ling cje njak, ngyat loh zjyi krauh kueh jep hiang.
+Piung pua pyot sinh ling cje njak, ngyat loh zjyi krau kueh jep hiang.
 Drik daux siang si leux myo jek, myoih phyang thriu-thriangh zjex chieng gyang.
 
 
@@ -3018,7 +3018,7 @@ Quon Deng-Yn
 Damx njen khung sjyix tad zsia hyoi, khyuk taux chang-mang ciep chyih myoi.
 Pua zjangx mrax se khan drauh khioh, liux pen njin hiat daix zsjyen kyoi.
 Sruk zung sra chaux gyon qu sanh, myanh khjyengx krung den qjit loh pyoi.
-Zjyi krex(?) zsjing cju zsim Byamx Lex, ngox gho qen sjyix duk myang kioi.
+Zjyi ghrex zsjing cju zsim Byamx Lex, ngox gho qen sjyix duk myang kioi.
 
 
 210. 
@@ -3051,10 +3051,10 @@ Bin nriox
 
 Zin Thau-Ngyuk
 
-Bung muon myoih sjik khiex la hiang, ngix thak liang muai jek ziih sjang.
+Bung muon myoih sjik khiex la hiang, ngix thak liang muai qjek ziih sjang.
 Zjyi qaih piung liu kau krak deuh, gyungh len zji sjed giemx srio criang.
 Kamx ciang zjip cjiix khrua cjim khraux, pyot prax srung mii tuh ghrueh driang.
-Khox ghonh nen nen qrep kim sienh, yeh tha njin cak krah qioi zjang.
+Khox ghonh nen nen qrep kim sienh, yeh tha njin coh krah qioi zjang.
 
 #Ngruk pyox
 
@@ -3116,7 +3116,7 @@ Zop sji
 Yang Jyi
 
 Kyon ziih koh hiang lai, qing trie koh hiang zrih.
-Lai njit khiex chrung zen, ghan muai driak hrua myoi.
+Lai njit khiex chrung zen, ghan muai triak hrua myoih.
 
 
 219. 
@@ -3215,7 +3215,7 @@ Dan gim
 
 Liu Driang-Khieng
 
-Leng-leng chjit ghen zjangx, ziengx theng zsyung piung ghan.
+Leng-leng chit ghen zjangx, ziengx thengh zsyung piung ghan.
 Kox deuh syi ziih qaih, kim njin ta pyot dan.
 
 
@@ -3255,7 +3255,7 @@ Sin krah nriang
 
 Yang Kianh
 
-Sam njit njip dryo ghrax, sex sjux cak krang thang.
+Sam njit njip dryo ghrax, sex sjux coh krang thang.
 Myoih qom ko zsjik siengh, sen khjenx sieux ko zjang.
 
 
@@ -3345,7 +3345,7 @@ Chjyn qyanh
 
 Kim Chjang-Zsiox
 
-T’rangx khix ghuang qreng nje, mak krauh cje zjangx de.
+T’rangx khix ghuang qreng nje, mak krau cje zjangx de.
 De zji kieng chiep miungh, pyot tok tauh Leu se.
 
 
@@ -3383,17 +3383,17 @@ Dung zjex driang kan njin, srieng sieux pyot siang sjik.
 Lix Brak
 
 Ngyuk krai srieng brak loh, jah kiux chim la myat.
-Khiak ghrax sjyix cieng liem, leng-lung myangh chiu ngyat.
+Khiak ghrah sjyix cieng liem, leng-lung myangh chiu ngyat.
 
 
 246. Saih ghrax khyuk
 
 Lo Lyn
 
-Ziuh leng kim buk ko, qenh myoix siuh miu(?) gho.
+Ziuh leng kim buk ko, qenh myoix siuh miu gho.
 Duk lip jang sin liengh, chen jyeng gyungh qjit ho.
 
-Lim qom chaux kieng piung, ciang kyon jah jinx kiung.
+Lim qomh chaux kieng piung, ciang kyon jah jinx kiung.
 Bieng mieng zsim brak yox, muot zaix zjek long triung.
 
 Ngyat hok ngranh pyoi kau, zjen-yo jah duonx dau.
@@ -3407,7 +3407,7 @@ Cyih ghuah kim krap myox, luai kox dungx sren chjyen.
 
 Lix Jek
 
-Krah tok Gyo-dang krax, trieu trieu ngoh chiep gi.
+Krah tok Gyo-dang kox, trieu trieu ngoh chiep gi.
 Caux trie drieu iux sinh, krah jox lungh drieu nje.
 
 #Chit ngian zyet kyoh
@@ -3429,7 +3429,7 @@ Dau hrua khe
 Triang Hyuk
 
 Qionx-qionx pyoi gieu krek jax qen, zjek kioi se buanh myonh ngio zsjyen.
-Dau hrua zinx njit zsjye liu sjyix, dungh zaix chieng khe gha chjoh pen.
+Dau hrua zinx njit zsye liu sjyix, dungh zaix chieng khe gha chjoh pen.
 
 
 250. 
@@ -3640,7 +3640,7 @@ Zongh nuaih njin
 Triang Ghox
 
 Kimh muon kiung zjyoh ngyat ghon kua, miih ngrenx jyi khan siuk loh khua.
-Zsia bret ngyuk chre tong qiengx buanh, thek khai ghung jemx kiuh pyoi nga.
+Zsia bret ngyuk chre tong qiengx buanh, thek khai ghung jemh kiuh pyoi nga.
 
 
 271. 
@@ -3752,7 +3752,7 @@ Zongh biet
 
 Dox Miuk
 
-Phjengh-phjengh neux-neux zjip sam jo, duh huh srau du njiih ngyat chrio.
+Pheng-pheng neux-neux zjip sam jo, duh huh srau du njiih ngyat chrio.
 Chjyn piung zjip lix Jang cju loh, kyenx zjangx cjyo liem cungx pyot njo.
 
 Ta zieng khiak zsix cungx myo zieng, jyi kruk cuon zen sieuh pyot zjeng.
@@ -3793,7 +3793,7 @@ Hiu myonh liang yan giuh pjin khrak, muh ling chiu yox biengh siang njo.
 
 Ye iux
 
-Lix Sjang-Yonx
+Lix Sjang-Qionx
 
 Ye iux yon beng myo ghrenx kieu, biungh zjeng ghan zinx phrah chjyn sieu.
 Myo tuan krah tok kim kyi seh, ko biux hiang khim zrih caux drieu.
@@ -3806,7 +3806,7 @@ Zsye kiung
 Lix Sjang-Qionx
 
 Zsjing hingh nom ju pyot kraih ngiam, kiux dryung zjyi siengx kranh sjo ghrem.
-Chjyn piung kiox kuok zai kiung kimx, puanh cak cjangh ne puanh cak byam.
+Chjyn piung kiox kuok zai kiung kimx, puanh cak cjang ne puanh cak byam.
 
 
 287. 
@@ -3896,7 +3896,7 @@ Kieh njin
 Triang Piih
 
 Biet miungh qioi-qioi tauh zsiah kra, sieux lang ghuai ghop khyuk lan zsia.
-Ta zieng cjex iux chjyn deng ngyat, ju yeh lie njin cjeuh lak hrua.
+Ta zieng cje iux chjyn deng ngyat, ju yeh lie njin cjeuh lak hrua.
 
 
 296. 
@@ -3947,7 +3947,7 @@ Chjyt saih
 Yang Chjang-Leng
 
 Zin zji mieng ngyat Hanh zji kruan, myanh lix driang cjeng njin myoih ghruan.
-Danx srix Lyung zjeng pyoi ciangh zaix, pyot krauh gho mrax doh Qim sren.
+Danx srix Lyung zjeng pyoi ciangh zaix, pyot krau gho mrax doh Qim sren.
 
 
 301. 
@@ -3957,10 +3957,10 @@ Chieng bieng deuh
 Lix Brak
 
 Yon siangx qioi zjang hrua siangx jyung, chjyn piung phyot ghramx loh ghrua nryung.
-Njak pyo gyon ngyuk sren du kenh, ghuad hiangh jeu dai ngyat ghrax byung.
+Njak pyoi gyon ngyuk sren du kenh, ghuad hiangh jeu dai ngyat ghrax byung.
 Qjit cje ghung jemh loh nging hiang, yon yox Myo sren qyangx duanx driang.
 Ciah myonh Hanh kiung zjyi tok zsix, khax len pyoi qenh qiex sin criang.
-Mjeng hrua khjyeng kuok liang siang huan, zjang tok kyon yang tad sieuh khan.
+Mjeng hrua khjyeng kuok liangx siang huan, zjang tok kyon yang tad sieuh khan.
 Krex sjek chjyn piung myo ghrenx ghonh, drim hiang deng pok qiex lan kan.
 
 
