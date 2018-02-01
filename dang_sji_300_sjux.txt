@@ -7,6 +7,7 @@
 #版權歸作者所有，盈利性使用請與作者聯繫
 #修改意見請向作者發郵件
 #依據中華書局版《唐詩三百首》蘅塘退士編、陳婉俊註
+#勘誤 hhliow https://github.com/hhliow 20180131
 
 唐詩三百首
 Dang sji sam prak sjux
